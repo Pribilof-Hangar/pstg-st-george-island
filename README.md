@@ -21,10 +21,11 @@ St. George airport (**PAPB**).
 
 ## About the old runway
 
-![The old north-side gravel strip on St. George Island, with trucks on the runway and a DC-6 parked near the village at the far end](docs/old-runway.jpg)
+![A DC-6 turning to taxi to the apron right after landing on the old north-side gravel strip on St. George Island, with fresh landing marks on the runway and trucks in the foreground](docs/old-runway.jpg)
 
-*The old strip in its working days: gravel runway, trucks driving on it, and a
-DC-6 parked near the village at the far end.*
+*The old strip in its working days, right after a DC-6 touched down. You can
+see the fresh landing marks in the gravel, and the DC-6 at the far end turning
+to taxi to the apron near the village.*
 
 Until the early 1990s this short gravel strip was the main air link between
 St. George Island and the mainland. It lay right beside the north side of
