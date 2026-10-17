@@ -78,7 +78,9 @@ copies.
 
 ## Help improve it
 
-I'm a novice scenery builder at best, so there is plenty that someone with
+I grew up on St. George and took many flights off and on this runway.
+I'm a novice scenery builder at best, though, so there is plenty that
+someone with
 more experience could do better – for example buildings, ground detail, a
 proper taxi layout, or the real NDB frequency.
 
