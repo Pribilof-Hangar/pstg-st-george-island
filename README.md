@@ -68,6 +68,16 @@ copies.
   used as a road after it closed, and that road is in the sim's base map data.
 - Dust on landing and takeoff depends on the aircraft.
 
+## Help improve it
+
+I'm a novice scenery builder at best, so there is plenty that someone with
+more experience could do better – for example buildings, ground detail, a
+proper taxi layout, or the real NDB frequency.
+
+If you'd like to improve it, please **fork this repo** and send a pull
+request, or open an issue with ideas, corrections or historical details.
+Photos and memories of the old strip are very welcome too.
+
 ## Building from source
 
 1. Install the MSFS 2024 SDK (Developer Mode → Help → SDK Installer).
