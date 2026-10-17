@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="1.2.1">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>St. George Island - North Runway</Title>
+		<Manufacturer>Farwestlife</Manufacturer>
+		<Creator>Cal</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<PackageOrderHint>CUSTOM_AIRPORT</PackageOrderHint>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type Version="0">ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\farwestlife-pstg-2025\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\farwestlife-pstg-2025\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type Version="0">BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\\sceneries\</AssetDir>
+			<OutputDir>scenery\farwestlife\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

@@ -1,0 +1,19 @@
+# MSFS SDK build output (rebuilt from source by the Project Editor)
+Packages/
+PackagesMetadata/
+_PackageInt/
+_PublishingGroupInt/
+PublishingGroupsContent/
+PublishingGroupsMetadata/
+
+# Per-user SDK settings
+*.user
+
+# Local backups and release staging (release zips go on the GitHub Releases page)
+_archive_old/
+_release/
+*.zip
+
+# Windows
+Thumbs.db
+desktop.ini
