@@ -12,7 +12,7 @@ St. George airport (**PAPB**).
 | | |
 |---|---|
 | Airport | PSTG – St. George Island, North side Runway |
-| Runway | 08 / 26, about 4,175 ft (1,273 m), red volcanic gravel |
+| Runway | 08 / 26, about 4,175 ft (1,273 m), red scoria (volcanic gravel) |
 | Weather (AWOS) | 132.325 MHz |
 | NDB / ADF | SRI, 391 kHz *(approximate, not the historical frequency)* |
 | Fuel | 100 and Jet A |
@@ -25,7 +25,9 @@ St. George airport (**PAPB**).
 
 *The old strip in its working days, right after a DC-6 touched down. You can
 see the fresh landing marks in the gravel, and the DC-6 at the far end turning
-to taxi to the apron near the village.*
+to taxi to the apron near the village. The runway was red scoria – a deep red
+volcanic gravel. The camera doesn't pick up how red most of the strip really
+was; the dirt in the foreground is closer to the true color.*
 
 Until the early 1990s this short gravel strip was the main air link between
 St. George Island and the mainland. It lay right beside the north side of
