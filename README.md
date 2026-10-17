@@ -68,7 +68,10 @@ copies.
   wind. To start on the other end (08 = west, by the main apron and hangar;
   26 = east), change the wind direction in the weather settings before loading in.
 - The island has no trees; none are added.
-- The small concrete pad south of the runway is just a pad, not a helipad.
+- The small concrete pad south of the runway was a real helipad. It is
+  modeled as a plain concrete pad, not a sim helipad, because tools such as
+  NeoFly treated the whole airport as helicopter-only when it was a helipad.
+  Helicopters can still land on it.
 - The sim's own road traffic may show a car or two on the strip. The strip was
   used as a road after it closed, and that road is in the sim's base map data.
 - Dust on landing and takeoff depends on the aircraft.
