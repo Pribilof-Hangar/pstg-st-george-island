@@ -1,7 +1,54 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
+	<!--NORTH ANCHORAGE START: fishing ships at anchor off the runway and village, plus a Coast Guard cutter on patrol (Moving Boat Library 2024)-->
+	<SceneryObject groupIndex="101" lat="56.609200" lon="-169.589500" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="172.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 1--><LibraryObject name="{02794C0E-C728-4FB5-8B8A-FE2A65E7147C}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="102" lat="56.612800" lon="-169.583800" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="195.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 2--><LibraryObject name="{1BE2BB82-A537-49D1-801A-D7427DE2E75C}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="103" lat="56.608100" lon="-169.579000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="183.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 3 blue--><LibraryObject name="{85EB6D92-F057-43D9-8407-7B0A6C564F4E}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="104" lat="56.614100" lon="-169.576200" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="168.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 4--><LibraryObject name="{35900241-8A1C-43AD-A7C1-AF5B9103948C}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="105" lat="56.610600" lon="-169.571100" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="205.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 5--><LibraryObject name="{67A6B990-41F6-48A2-AF49-958DC13F3F05}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="106" lat="56.615300" lon="-169.566500" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="176.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 6 blue--><LibraryObject name="{DD4E5DD7-C360-412C-BD56-9667D37FCD78}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="107" lat="56.609800" lon="-169.562800" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="190.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 7--><LibraryObject name="{B76506ED-AB81-4B40-9067-2892D09FE83E}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="108" lat="56.612700" lon="-169.558700" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="162.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 8--><LibraryObject name="{CCA9CD27-8745-43A5-9733-4DD530DD66E9}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="109" lat="56.608500" lon="-169.554100" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="200.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 9 red--><LibraryObject name="{ABF145C6-24EC-44D1-B901-F6BC348952E9}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="110" lat="56.614600" lon="-169.551200" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="185.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 10 blue--><LibraryObject name="{B8FEBEF6-FE07-4F8B-8C27-47812BB3DE01}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="111" lat="56.611000" lon="-169.546800" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="172.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 11 blue--><LibraryObject name="{82784874-6753-4365-9ABE-32866CA9C1BB}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="112" lat="56.608000" lon="-169.543200" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="215.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 12--><LibraryObject name="{ED9B33D5-55C4-45E1-A1D4-C1D6A353FDFC}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="113" lat="56.613500" lon="-169.540500" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="178.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 13--><LibraryObject name="{38998C71-1B58-46D5-BE91-82AFD1792C60}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="114" lat="56.616500" lon="-169.559000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbms fishing ship 14--><LibraryObject name="{28E897C0-D220-40EC-622D-137DA2777D46}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="115" lat="56.628000" lon="-169.565000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="270.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<!--sbml coastguard cutter 2--><LibraryObject name="{4BE00517-458F-4B70-9C54-6523002190F3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--NORTH ANCHORAGE END-->
 	<!--NDB SRI, medium-high power. Freq 391 kHz chosen because 399 is used by the south-side NDB-->
-	<Ndb lat="56.5972" lon="-169.5439" alt="35.0" altType="GEOID" type="MH" frequency="391.0" range="60N" magvar="0.0" region="PA" ident="SRI" name="ST GEORGE NDB"/>
+	<Ndb lat="56.5972" lon="-169.5439" alt="45.72" altType="GEOID" type="MH" frequency="391.0" range="60N" magvar="-6.0" region="PA" ident="SRI" name="ST GEORGE NDB"/>
 	<!--SceneryObject name: Gen_Hangar04-->
 	<SceneryObject groupIndex="6" lat="56.60082257586002" lon="-169.57764400211209" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{246AB855-9482-4239-B5EA-541CD0FAA515}" scale="1.000000"/>
@@ -10,46 +57,46 @@
 		<SimObject containerTitle="ASO_LoaderCab_White" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="17" lat="56.56758628342452" lon="-169.66694942780663" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Boat01" scale="1.000000"/>
+		<!--sbms fishing boat small 1 white (Moving Boat Library 2024)--><LibraryObject name="{FE926D92-0C6C-42F6-9BE3-D1045070D1FC}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="19" lat="56.56762003251706" lon="-169.66683154929851" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Boat01" scale="1.000000"/>
+		<!--sbms fishing boat small 2 red (Moving Boat Library 2024)--><LibraryObject name="{5873DB91-DADF-41F7-B387-0194BD4176A8}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="22" lat="56.56767824794593" lon="-169.66653360013265" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Boat01" scale="1.000000"/>
+		<!--sbms fishing boat small 3 blue (Moving Boat Library 2024)--><LibraryObject name="{2CF36943-F33C-432F-82D7-8E21C834677B}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="21" lat="56.56765986631339" lon="-169.66669658049508" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Boat02" scale="1.000000"/>
+		<!--sbms workboat 1 red (Moving Boat Library 2024)--><LibraryObject name="{05C7A0FD-86DA-4FE8-8827-3416F9BB7CC2}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="23" lat="56.56791367134313" lon="-169.66731349970161" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-26.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Boat02" scale="1.000000"/>
+		<!--sbms tugboat small (Moving Boat Library 2024)--><LibraryObject name="{21196E47-DAE9-4805-AB4A-E0A85F74BCBA}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="18" lat="56.60393919129424" lon="-169.54170631508217" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="Boat02" scale="1.000000"/>
+		<!--sbms coastguard boat small (Moving Boat Library 2024)--><LibraryObject name="{C5A27E67-7C07-43EC-907D-8AFED6AC2EC6}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="16" lat="56.57093004653881" lon="-169.69580039593751" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="60.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="CargoShip01" scale="1.000000"/>
+		<!--sbml coastguard cutter (Moving Boat Library 2024)--><LibraryObject name="{6E6A2329-BFD5-48AB-9B04-D862CDC0F133}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="15" lat="56.57720815443429" lon="-169.71137306168191" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="41.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingBoat" scale="1.000000"/>
+		<!--sbms fishing ship 3 blue (Moving Boat Library 2024)--><LibraryObject name="{85EB6D92-F057-43D9-8407-7B0A6C564F4E}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="14" lat="56.60439803689592" lon="-169.59062514663916" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="162.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingBoat" scale="1.000000"/>
+		<!--sbms fishing boat small 4 (Moving Boat Library 2024)--><LibraryObject name="{09E071CD-CAD6-4557-9CD1-1EB9704C32B9}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="13" lat="56.60743544925618" lon="-169.63043452337652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingBoat" scale="1.000000"/>
+		<!--sbms fishing ship 11 red (Moving Boat Library 2024)--><LibraryObject name="{7118E400-38EA-4BD8-B8B6-6E9908408EB5}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="11" lat="56.56894844130770" lon="-169.67413775532344" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-94.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingShip02" scale="1.000000"/>
+		<!--sbms fishing ship 1 (Moving Boat Library 2024)--><LibraryObject name="{02794C0E-C728-4FB5-8B8A-FE2A65E7147C}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="3" lat="56.56975969216467" lon="-169.66771971072373" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingShip02" scale="1.000000"/>
+		<!--sbms fishing ship 5 (Moving Boat Library 2024)--><LibraryObject name="{67A6B990-41F6-48A2-AF49-958DC13F3F05}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="12" lat="56.60708094029217" lon="-169.57253342957253" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingShip02" scale="1.000000"/>
+		<!--sbms fishing ship 7 (Moving Boat Library 2024)--><LibraryObject name="{B76506ED-AB81-4B40-9067-2892D09FE83E}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="8" lat="56.56808002885200" lon="-169.66659343657054" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<SimObject containerTitle="FishingShip03" scale="1.000000"/>
+		<!--sbms fishing ship 9 green (Moving Boat Library 2024)--><LibraryObject name="{70F16391-C56F-4820-9633-D6182DBAA298}" scale="1.000000"/>
 	</SceneryObject>
 	<SceneryObject groupIndex="4" lat="56.60228506580918" lon="-169.54327017322868" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-107.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Oldguydrinking" scale="1.000000"/>
@@ -79,15 +126,6 @@
 		<Vertex lat="56.60306670689508" lon="-169.56297088335413"/>
 		<Vertex lat="56.60215537191421" lon="-169.56214296487866"/>
 		<Vertex lat="56.60160127044269" lon="-169.56071154730037"/>
-	</Polygon>
-	<Polygon groupIndex="2" altitude="47.76630020141602">
-		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5E6BD89F-2F94-4FC9-8DE8-FAD4EDA6E76E}"/>
-		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="400.000000"/>
-		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{7CF46D6E-D7C2-46C7-B8AF-48CA8E69EFA2}"/>
-		<Vertex lat="56.60084632679142" lon="-169.55336495332682"/>
-		<Vertex lat="56.60090119444884" lon="-169.55339664859599"/>
-		<Vertex lat="56.60089515814079" lon="-169.55348318083134"/>
-		<Vertex lat="56.60083786428977" lon="-169.55345195412900"/>
 	</Polygon>
 	<Polygon displayName="Airport Parking" groupIndex="1" altitude="39.32390594482422">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{15CB1F6C-9380-4E6C-8821-C560E68DD6AF}"/>
@@ -120,7 +158,7 @@
 		<Vertex lat="56.60084995472954" lon="-169.55517313436448"/>
 		<Vertex lat="56.60075696824381" lon="-169.55544555230435"/>
 	</Polygon>
-	<Airport displayName="St. George Island - North side Runway " groupID="1" groupGenerated="FALSE" region="Pribilof Islands" country="USA" state="Alaska" city="Saint George Island" name="St. George Island - North side Runway" ident="PSTG" lat="56.59969291249062" lon="-169.57539863335995" alt="34.66966295614839" magvar="0.000000" trafficScalar="0.010000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.003943" groundMergingTransfertDark="7.000000">
+	<Airport displayName="St. George Island - North side Runway" groupID="1" groupGenerated="FALSE" region="Pribilof Islands" country="USA" state="Alaska" city="Saint George Island" name="St. George Island - North side Runway" ident="PSTG" lat="56.60032406519851" lon="-169.56763961856618" alt="34.66966295614839" magvar="-6.000000" trafficScalar="0.010000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.003943" groundMergingTransfertDark="7.000000">
 		<Runway parentGroupID="1" lat="56.60032406519851" lon="-169.56763961856618" alt="34.66966295614839" heading="85.97828674316406" length="1272.61730957031250" width="33.35519027709961" patternAltitude="304.79998779296875" surface="GRAVEL" transparent="FALSE" number="08" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Coloration red="84" green="38" blue="38" alpha="255" override="TRUE"/>
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AssetPackage Version="1.2.1">
+<AssetPackage Version="1.3.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>St. George Island - North Runway</Title>
-		<Manufacturer>Farwestlife</Manufacturer>
+		<Manufacturer>Pribilof Hangar</Manufacturer>
 		<Creator>Cal</Creator>
 	</ItemSettings>
 	<Flags>

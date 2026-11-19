@@ -59,6 +59,15 @@ opened in 1993 and is the airport you will find in the sim by default.
      `%APPDATA%\Microsoft Flight Simulator 2024\Packages\Community`
 4. Start MSFS 2024 and search for **PSTG**.
 
+**Optional – boats:** the fishing fleet anchored off the runway and village,
+the harbor boats and the Coast Guard vessels come from the free
+[Moving Boat Library 2024](https://flightsim.to/file/27908/moving-boats-3d-model-library)
+by superspud. Install it (the MSFS 2024 version, `boat-library-moving-2024`)
+into Community to see them. Without it the airport works exactly the same, but
+you will see almost no boats (only one default trawler). The library is not
+included here because it is someone else's work – please download it from
+the author's page.
+
 **Updating from an older version:** delete any old `PASG_2025` or
 `farwestlife-pstg-2025` folder from Community first, so you do not get two
 copies.
@@ -78,6 +87,24 @@ copies.
 - The sim's own road traffic may show a car or two on the strip. The strip was
   used as a road after it closed, and that road is in the sim's base map data.
 - Dust on landing and takeoff depends on the aircraft.
+
+## What's new
+
+**1.3.0**
+- Boats: 14 fishing ships anchored off the runway and village, a Coast Guard
+  cutter on patrol to the north, and fishing boats, workboats and a small
+  Coast Guard boat around the island (needs the optional boat library above).
+- Removed the old land build-up at the east end of the runway that raised the
+  ground and messed up the shoreline and sea level there.
+- The airport position is now the middle of the runway, so tools such as
+  NeoFly should recognize both ends (08 and 26) as PSTG.
+- Magnetic variation set to 6° E; the SRI NDB sits at a more realistic height.
+- Cleaned-up airport name, new thumbnail, author shown as Pribilof Hangar.
+
+**1.1**
+- The airport is PSTG (it was PASG). Red scoria runway with matching aprons,
+  parking, fuel, AWOS 132.325 and the SRI NDB. Static aircraft removed; the
+  runway sits properly on the ground.
 
 ## Help improve it
 
@@ -106,4 +133,5 @@ The scenery source is `PackageSources/sceneries/PSTG.xml`.
 please do not sell it.
 
 Scenery by Cal (Farwestlife / Pribilof Hangar). Uses default objects that come
-with MSFS 2024.
+with MSFS 2024. Boats are from the Moving Boat Library 2024 by superspud (not
+included; download it separately).
