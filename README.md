@@ -13,7 +13,7 @@ St. George airport (**PAPB**).
 |---|---|
 | Airport | PSTG – St. George Island, North side Runway |
 | Runway | 08 / 26, about 4,175 ft (1,273 m), red scoria (volcanic gravel) |
-| Weather (AWOS) | 132.325 MHz |
+| Weather (AWOS) | 132.325 MHz (Uses the PAPB METAR) |
 | NDB / ADF | SRI, 391 kHz *(approximate, not the historical frequency)* |
 | Fuel | 100 and Jet A |
 | Parking | 2 small spots by the hangar (Navajo and smaller) |
