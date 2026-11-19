@@ -59,14 +59,35 @@ opened in 1993 and is the airport you will find in the sim by default.
      `%APPDATA%\Microsoft Flight Simulator 2024\Packages\Community`
 4. Start MSFS 2024 and search for **PSTG**.
 
-**Optional – boats:** the fishing fleet anchored off the runway and village,
-the harbor boats and the Coast Guard vessels come from the free
-[Moving Boat Library 2024](https://flightsim.to/file/27908/moving-boats-3d-model-library)
-by superspud. Install it (the MSFS 2024 version, `boat-library-moving-2024`)
-into Community to see them. Without it the airport works exactly the same, but
-you will see almost no boats (only one default trawler). The library is not
-included here because it is someone else's work – please download it from
-the author's page.
+### Optional: get the boats
+
+The fishing fleet anchored off the runway and village, the harbor boats and
+the Coast Guard vessels come from the free **Moving Boat Library 2024** by
+superspud. Install it and you will see the same boats in the same places.
+Without it the airport works exactly the same, but you will see almost no
+boats (only one default trawler).
+
+1. Open the library's page on flightsim.to:
+   [Moving Boats 3D Model Library](https://flightsim.to/file/27908/moving-boats-3d-model-library)
+   (you may need a free flightsim.to account to download).
+2. Get the **MSFS 2024 version**, not the 2020 one: click the second
+   download button (below the main one) and choose
+   **`boat-library-moving-2024`**. It is a big file (about 420 MB).
+3. Close MSFS 2024 and unzip the download.
+4. Copy the folder **`boat-library-moving-2024`** into the same Community
+   folder as `farwestlife-pstg-2025`. (If the zip has an extra folder around
+   it, such as `ClickAgain`, copy only `boat-library-moving-2024`.) You can
+   ignore the "For Developers" zip that comes with it.
+5. Start MSFS 2024 and load in at PSTG. The boats should be on the water
+   north of the runway and in the harbor to the southwest.
+
+If the boats don't show, make sure the sim was fully restarted after you
+added the library – the sim only loads add-ons when it starts.
+
+The library is not included here because it is someone else's work –
+please download it from the author's page.
+
+### Updating and uninstalling
 
 **Updating from an older version:** delete any old `PASG_2025` or
 `farwestlife-pstg-2025` folder from Community first, so you do not get two
