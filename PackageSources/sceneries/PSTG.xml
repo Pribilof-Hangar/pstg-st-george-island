@@ -105,6 +105,14 @@
 	<SceneryObject displayName="sbms workboat 1 red" groupIndex="20" lat="56.56765986631339" lon="-169.66669658049508" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{05C7A0FD-86DA-4FE8-8827-3416F9BB7CC2}" scale="1.000000"/>
 	</SceneryObject>
+	<Polygon version="0.5.0" displayName="East end flatten (runway height)" groupIndex="39" altitude="36.19366455078125">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{7519756D-6F90-4BF8-A684-7C560D314F07}"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="30.000000"/>
+		<Vertex lat="56.60071027000000" lon="-169.56464111000000"/>
+		<Vertex lat="56.60017195000000" lon="-169.56460677000001"/>
+		<Vertex lat="56.60047436000000" lon="-169.55679302999999"/>
+		<Vertex lat="56.60101269000000" lon="-169.55682737000001"/>
+	</Polygon>
 	<Polygon version="0.5.0" displayName="Runway grass exclusion" groupIndex="2" altitude="39.32390594482422">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5F242BEE-06B3-4603-A88E-CDCCCBD58673}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
@@ -115,10 +123,10 @@
 		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
 		<Attribute name="RocksScale" guid="{D5F9FE69-EBD5-44DF-9ACB-155063B5B9C5}" type="UINT32" value="127"/>
 		<Attribute name="RocksDensity" guid="{DC8F839B-A39D-4C23-B01F-C175CFD69E45}" type="UINT32" value="255"/>
-		<Vertex lat="56.6020000" lon="-169.5810000"/>
-		<Vertex lat="56.6020000" lon="-169.5550000"/>
-		<Vertex lat="56.5970000" lon="-169.5550000"/>
-		<Vertex lat="56.5970000" lon="-169.5810000"/>
+		<Vertex lat="56.59700000000000" lon="-169.58099999999999"/>
+		<Vertex lat="56.59700000000000" lon="-169.55500000000001"/>
+		<Vertex lat="56.60200000000000" lon="-169.55500000000001"/>
+		<Vertex lat="56.60200000000000" lon="-169.58099999999999"/>
 	</Polygon>
 	<Polygon version="0.5.0" displayName="cliff" groupIndex="5" altitude="1.35909903049469">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3628A72D-61F3-4B43-8E55-D7B2BCFEBAD7}"/>
@@ -188,9 +196,15 @@
 			<ApproachLights end="SECONDARY" system="ODALS" strobes="0" endLights="FALSE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="79.479996" spacing="0.000000" slope="0.000000"/>
 			<RunwayStart end="PRIMARY" lat="56.59993808015503" lon="-169.57780715734503" alt="36.20175403615090" heading="85.97828674316406"/>
 			<RunwayStart end="SECONDARY" lat="56.60071737591743" lon="-169.55751789829097" alt="36.19231229534000" heading="264.97833251953125"/>
-			<Material guid="{66476E04-94CE-462C-95C3-12B9B850DAB7}" type="Base tiled" tilingU="1.000000" tilingV="1.000000" width="1.000000" falloff="0.000000" opacity="255"/>
+			<Material guid="{66476E04-94CE-462C-95C3-12B9B850DAB7}" type="Base tiled" tilingU="1.000000" tilingV="1.000000" width="1.300000" falloff="0.000000" opacity="255"/>
 		</Runway>
 		<Aprons>
+			<Apron parentGroupID="1" groupIndex="11" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1" tiling="25.000000" heading="173.571182" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+				<Vertex lat="56.59849083382620" lon="-169.57524214162899"/>
+				<Vertex lat="56.59845557029870" lon="-169.57580967811100"/>
+				<Vertex lat="56.59814260994100" lon="-169.57574572963301"/>
+				<Vertex lat="56.59817787346850" lon="-169.57517819315100"/>
+			</Apron>
 			<Apron parentGroupID="1" groupIndex="13" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="3" tiling="325.000000" offsetU="255" offsetV="114" heading="1.727876" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="FALSE" excludeVegetationInside="FALSE" isRectangle="FALSE">
 				<Coloration red="84" green="38" blue="38" alpha="255" override="TRUE"/>
 				<Vertex lat="56.59958533545708" lon="-169.57644312938046"/>
@@ -295,12 +309,6 @@
 				<Vertex lat="56.60083107435406" lon="-169.56400084497756"/>
 				<Vertex lat="56.60081217658608" lon="-169.56383873085258"/>
 				<Vertex lat="56.60077839386518" lon="-169.56372624225477"/>
-			</Apron>
-			<Apron parentGroupID="1" groupIndex="11" surface="{66476E04-94CE-462C-95C3-12B9B850DAB7}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="1" tiling="25.000000" heading="173.571182" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
-				<Vertex lat="56.59849083382620" lon="-169.57524214162899"/>
-				<Vertex lat="56.59845557029870" lon="-169.57580967811100"/>
-				<Vertex lat="56.59814260994100" lon="-169.57574572963301"/>
-				<Vertex lat="56.59817787346850" lon="-169.57517819315100"/>
 			</Apron>
 		</Aprons>
 		<PaintedElements/>
