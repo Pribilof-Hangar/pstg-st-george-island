@@ -193,7 +193,8 @@
 			<Coloration red="84" green="38" blue="38" alpha="255" override="TRUE"/>
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="HIGH"/>
-			<ApproachLights end="SECONDARY" system="ODALS" strobes="0" endLights="FALSE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE" offset="79.479996" spacing="0.000000" slope="0.000000"/>
+			<ApproachLights end="PRIMARY" system="NONE" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE"/>
+			<ApproachLights end="SECONDARY" system="NONE" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="TRUE" reil="FALSE"/>
 			<RunwayStart end="PRIMARY" lat="56.59993808015503" lon="-169.57780715734503" alt="36.20175403615090" heading="85.97828674316406"/>
 			<RunwayStart end="SECONDARY" lat="56.60071737591743" lon="-169.55751789829097" alt="36.19231229534000" heading="264.97833251953125"/>
 			<Material guid="{66476E04-94CE-462C-95C3-12B9B850DAB7}" type="Base tiled" tilingU="1.000000" tilingV="1.000000" width="1.300000" falloff="0.000000" opacity="255"/>
