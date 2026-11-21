@@ -12,9 +12,11 @@ St. George airport (**PAPB**).
 | | |
 |---|---|
 | Airport | PSTG – St. George Island, North side Runway |
-| Runway | 08 / 26, about 4,175 ft (1,273 m), red scoria (volcanic gravel) |
+| Runway | 08 / 26, about 4,175 ft (1,273 m), red scoria (volcanic gravel) – no grass, flowers or road traffic on it |
 | Weather (AWOS) | 132.325 MHz (Uses the PAPB METAR) |
-| NDB / ADF | SRI, 391 kHz *(approximate, not the historical frequency)* |
+| NDB / ADF | **PSTG, 391 kHz** – the old north-side beacon by the tanks *(approximate, not the historical frequency)* |
+| PAPB NDB | **SRI, 399 kHz** – the real St. George beacon at the new airport, added because the default one never worked |
+| Runway lights | Edge lights, end lights, ODALS on 26 – basic, like the 1980s |
 | Fuel | 100 and Jet A |
 | Parking | 2 small spots by the hangar (Navajo and smaller) |
 | Tower / ILS / VASI | none – fly it visually |
@@ -28,6 +30,20 @@ see the fresh landing marks in the gravel, and the DC-6 at the far end turning
 to taxi to the apron near the village. The runway was red scoria – a deep red
 volcanic gravel. The camera doesn't pick up how red most of the strip really
 was; the dirt in the foreground is closer to the true color.*
+
+![The old north-side strip in MSFS 2024: a red scoria runway leading toward a DC-6 at the far end, with the village, the north cliffs and the anchored boats beyond](docs/pstg-in-the-sim.jpg)
+
+*The same strip in MSFS 2024, looking down the runway toward the village, with
+the cliffs and the fishing fleet off the north shore.*
+
+![Aerial view of the PSTG strip along St. George's north shore, with the village at the far end and fishing boats anchored offshore](docs/pstg-aerial.jpg)
+
+*From the air: the strip running along the north shore toward the village.*
+
+![The west end of the PSTG strip in MSFS 2024: a hangar and small plane on the red gravel apron, the runway stretching east, and the fuel site and gravel roads off to the right](docs/pstg-west-end.jpg)
+
+*The 08 end: the hangar apron, with the fuel site and gravel roads off to the
+right.*
 
 Until the early 1990s this short gravel strip was the main air link between
 St. George Island and the mainland. It lay right beside the north side of
@@ -101,15 +117,51 @@ copies.
   wind. To start on the other end (08 = west, by the main apron and hangar;
   26 = east), change the wind direction in the weather settings before loading in.
 - The island has no trees; none are added.
-- The small concrete pad south of the runway was a real helipad. It is
-  modeled as a plain concrete pad, not a sim helipad, because tools such as
-  NeoFly treated the whole airport as helicopter-only when it was a helipad.
-  Helicopters can still land on it.
-- The sim's own road traffic may show a car or two on the strip. The strip was
-  used as a road after it closed, and that road is in the sim's base map data.
+- The small pad south of the runway is gravel now. The site was a jet fuel
+  tank, which is what's there now.
+- The runway no longer has the sim's road traffic on it.
+- Some island roads from OpenStreetMap don't line up exactly with the sim's
+  photo scenery. In a few spots you can still see the sim's own road next to
+  ours.
 - Dust on landing and takeoff depends on the aircraft.
 
 ## What's new
+
+**1.4.0**
+
+*The runway*
+- The runway is now red gravel that the sim actually treats as gravel. Before,
+  the dirt material reported as concrete, so tools like NeoFly saw a concrete
+  airport.
+- No more 3D grass, flowers or cars on the runway.
+- The gravel reaches out to the edge lights, like the old photos.
+- A darker, duller red that's closer to real scoria and no longer glows pink
+  in bright light.
+- Taxiway connected to the runway properly, and runway 26 heading corrected.
+- Simple lighting: edge lights, end lights and the ODALS on 26.
+
+*The ground around it*
+- The east-end hills are back, but done properly this time: a ridge just past
+  the end of 26, a hump by the flashing light, and a rise to the north, shaped
+  as rounded hills instead of flat steps.
+- Aprons trimmed so they no longer overlap the runway.
+
+*Buildings and equipment*
+- The old "helipad" was really a jet fuel tank site. It is now a horizontal
+  jet fuel tank at the end of a gravel road.
+- Fuel pump by the house, a big forklift and a flatbed truck.
+- Gravel roads from the apron to the pad and the tank.
+
+*Radio*
+- The north-side NDB moved to where the real antenna stood, by the tanks, with
+  a mast. It is now called **PSTG** on 391.
+- New **SRI 399** NDB at PAPB with its own mast. The sim's default one never
+  worked, in 2020 or 2024.
+
+*The island*
+- 72 island roads from OpenStreetMap painted over the sim's roads. Main roads
+  are dark gray gravel; streets and tracks are red scoria. No rocks or boulders
+  on them.
 
 **1.3.0**
 - Boats: 14 fishing ships anchored off the runway and village, a Coast Guard
@@ -130,14 +182,30 @@ copies.
 ## Help improve it
 
 I grew up on St. George and took many flights off and on this runway.
-I'm a novice scenery builder at best, though, so there is plenty that
-someone with
-more experience could do better – for example buildings, ground detail, a
-proper taxi layout, or the real NDB frequency.
+I am **not** a scenery developer. I didn't know what I was doing when I
+started this, and it shows. Getting even this far took a lot of trial and
+error: grass that kept coming back, hills that came out as flat "cookie
+sheets", lights that wouldn't show up, and many, many sim restarts. A lot
+of it was learned the hard way, with help from AI tools.
 
-If you'd like to improve it, please **fork this repo** and send a pull
-request, or open an issue with ideas, corrections or historical details.
-Photos and memories of the old strip are very welcome too.
+So please take this as a labor of love, not a finished product. **There is
+still plenty of work to do:**
+
+- A few edge lights are missing at the 26 end. Nobody has figured out why yet.
+- Some island roads don't line up with the sim's photo scenery.
+- No Russian Orthodox church. There's no suitable model in the sim, so it
+  would need a custom 3D model.
+- The real village buildings, the old terminal and hangar aren't modeled.
+- The real 1980s NDB frequency and ident are unknown. PSTG 391 is a guess.
+- The hills are close to how I remember them, but not survey-accurate.
+- The runway and road edges are perfectly straight with square corners.
+  Real gravel has ragged edges and spill. That needs hand-drawn edge
+  patches or custom soft-edge textures.
+
+If you know scenery building, please **fork this repo** and send a pull
+request, or open an issue with ideas, corrections or history. Photos and
+memories of the old strip are very welcome. And if something looks wrong,
+it probably is. Tell me.
 
 ## Building from source
 
@@ -156,3 +224,7 @@ please do not sell it.
 Scenery by Cal (Farwestlife / Pribilof Hangar). Uses default objects that come
 with MSFS 2024. Boats are from the Moving Boat Library 2024 by superspud (not
 included; download it separately).
+
+Island roads are based on map data © OpenStreetMap contributors, available
+under the Open Database License
+([openstreetmap.org/copyright](https://www.openstreetmap.org/copyright)).
