@@ -12,7 +12,7 @@ St. George airport (**PAPB**).
 | | |
 |---|---|
 | Airport | PSTG – St. George Island, North side Runway |
-| Runway | 08 / 26, about 4,175 ft (1,273 m), red scoria (volcanic gravel) – no grass, flowers or road traffic on it |
+| Runway | 08 / 26, about 4,175 ft × 125 ft (1,273 m × 38 m), red scoria (volcanic gravel) – no grass, flowers or road traffic on it |
 | Weather (AWOS) | 132.325 MHz (Uses the PAPB METAR) |
 | NDB / ADF | **PSTG, 391 kHz** – the old north-side beacon by the tanks *(approximate, not the historical frequency)* |
 | PAPB NDB | **SRI, 399 kHz** – the real St. George beacon at the new airport, added because the default one never worked |
@@ -30,6 +30,10 @@ see the fresh landing marks in the gravel, and the DC-6 at the far end turning
 to taxi to the apron near the village. The runway was red scoria – a deep red
 volcanic gravel. The camera doesn't pick up how red most of the strip really
 was; the dirt in the foreground is closer to the true color.*
+
+*This photo was taken before the runway was lengthened and widened. The
+scenery models the later, longer and wider strip – about 4,175 ft long and
+125 ft wide – so it looks a bit bigger than in the photo.*
 
 ![The old north-side strip in MSFS 2024: a red scoria runway leading toward a DC-6 at the far end, with the village, the north cliffs and the anchored boats beyond](docs/pstg-in-the-sim.jpg)
 
@@ -113,9 +117,10 @@ copies.
 
 ## Notes
 
-- **Which end you start on:** MSFS puts you on the runway that faces the current
-  wind. To start on the other end (08 = west, by the main apron and hangar;
-  26 = east), change the wind direction in the weather settings before loading in.
+- **Which end you start on:** pick RWY 08 or RWY 26 under the departure on the
+  World Map. MSFS 2024 may still switch you to the end that faces the wind, so if
+  you want a particular end, set the wind first (08 starts at the west end by the
+  hangar, facing east toward the village; 26 starts at the east end, facing west).
 - The island has no trees; none are added.
 - The small pad south of the runway is gravel now. The site was a jet fuel
   tank, which is what's there now.
@@ -126,6 +131,14 @@ copies.
 - Dust on landing and takeoff depends on the aircraft.
 
 ## What's new
+
+**1.4.1**
+- Runway is now 125 ft wide (measured from the real strip), with the edge lights
+  about 125 ft apart and the red gravel ending at the lights.
+- The one-story house by the fuel pump (it was used as a weather station) is back.
+  The sim's own building there disappeared when the runway was widened, so the
+  house is now part of the scenery and can't vanish again.
+- Fixed a runway setting that could confuse which end you start on.
 
 **1.4.0**
 
