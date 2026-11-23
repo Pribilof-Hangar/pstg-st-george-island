@@ -79,33 +79,8 @@ opened in 1993 and is the airport you will find in the sim by default.
      `%APPDATA%\Microsoft Flight Simulator 2024\Packages\Community`
 4. Start MSFS 2024 and search for **PSTG**.
 
-### Optional: get the boats
-
-The fishing fleet anchored off the runway and village, the harbor boats and
-the Coast Guard vessels come from the free **Moving Boat Library 2024** by
-superspud. Install it and you will see the same boats in the same places.
-Without it the airport works exactly the same, but you will see almost no
-boats (only one default trawler).
-
-1. Open the library's page on flightsim.to:
-   [Moving Boats 3D Model Library](https://flightsim.to/file/27908/moving-boats-3d-model-library)
-   (you may need a free flightsim.to account to download).
-2. Get the **MSFS 2024 version**, not the 2020 one: click the second
-   download button (below the main one) and choose
-   **`boat-library-moving-2024`**. It is a big file (about 420 MB).
-3. Close MSFS 2024 and unzip the download.
-4. Copy the folder **`boat-library-moving-2024`** into the same Community
-   folder as `farwestlife-pstg-2025`. (If the zip has an extra folder around
-   it, such as `ClickAgain`, copy only `boat-library-moving-2024`.) You can
-   ignore the "For Developers" zip that comes with it.
-5. Start MSFS 2024 and load in at PSTG. The boats should be on the water
-   north of the runway and in the harbor to the southwest.
-
-If the boats don't show, make sure the sim was fully restarted after you
-added the library – the sim only loads add-ons when it starts.
-
-The library is not included here because it is someone else's work –
-please download it from the author's page.
+Everything is built in: all the boats and ships use models that come with
+MSFS 2024, so there is nothing else to download.
 
 ### Updating and uninstalling
 
@@ -131,6 +106,21 @@ copies.
 - Dust on landing and takeoff depends on the aircraft.
 
 ## What's new
+
+**1.5.0**
+- **Clean install, no extra downloads.** The fishing fleet, harbor boats and
+  Coast Guard spots now use boats that come with MSFS 2024, in the same places
+  (the optional Moving Boat Library is no longer needed). The fleet mixes
+  colors so neighboring boats don't match.
+- **Marine dock** at the village: the concrete jetty, with a light mast, a
+  mobile crane and two small fishing boats tied up.
+- **A few big ships** (cargo ships, oil tankers and a gas carrier) scattered
+  10–20 nm south of the island, just for fun.
+- **Smoother aprons:** the aprons no longer have the coarse "Mars rock"
+  texture, and they match the runway.
+- **Darker runway red**, closer to the real scoria.
+- Road pieces inside the airport area filled in, and the old road at the 26 end
+  now lines up with the road in the photo scenery.
 
 **1.4.1**
 - Runway is now 125 ft wide (measured from the real strip), with the edge lights
@@ -179,7 +169,8 @@ copies.
 **1.3.0**
 - Boats: 14 fishing ships anchored off the runway and village, a Coast Guard
   cutter on patrol to the north, and fishing boats, workboats and a small
-  Coast Guard boat around the island (needs the optional boat library above).
+  Coast Guard boat around the island (used the Moving Boat Library then;
+  built-in boats since 1.5.0).
 - Removed the old land build-up at the east end of the runway that raised the
   ground and messed up the shoreline and sea level there.
 - The airport position is now the middle of the runway, so tools such as
@@ -235,8 +226,7 @@ The scenery source is `PackageSources/sceneries/PSTG.xml`.
 please do not sell it.
 
 Scenery by Cal (Farwestlife / Pribilof Hangar). Uses default objects that come
-with MSFS 2024. Boats are from the Moving Boat Library 2024 by superspud (not
-included; download it separately).
+with MSFS 2024, including all boats and ships.
 
 Island roads are based on map data © OpenStreetMap contributors, available
 under the Open Database License
