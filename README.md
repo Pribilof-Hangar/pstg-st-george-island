@@ -107,6 +107,11 @@ copies.
 
 ## What's new
 
+**1.5.1**
+- East-end hills reshaped: one north–south ridge just past the 26 end, running
+  from the cliff to the road, and the hump by the flashing light. The old
+  east–west bands are gone.
+
 **1.5.0**
 - **Clean install, no extra downloads.** The fishing fleet, harbor boats and
   Coast Guard spots now use boats that come with MSFS 2024, in the same places
