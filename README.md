@@ -236,10 +236,16 @@ memories. Two things in the scenery are there for them.
 **Dad's pickup with the orange lights.** West of the runway, on the gravel
 track toward the coast, there's a pickup truck parked with orange beacons
 flashing on the roof. In the early days the strip had no navaids of its own.
-Pilots used the St. Paul navaids, flew south to St. George, and in bad weather
-were talked in on radar. The pilots would ask my Dad to drive out to that spot,
-park, and flash his lights so they could find him and shoot the approach. Some
-good old-school flying.
+Pilots used the St. Paul navaids, flew south to St. George, and found the
+island with the DC-6's own radar. Bad weather was the norm out here, probably
+80% of the year or more, with fog, rain, snow and high winds. The pilots would
+ask my Dad to drive out to that spot, park, and flash his lights so they could
+find him and shoot the approach. Some good old-school flying.
+
+The plane that flew here the most in the '80s was DC-6A
+[N7780B](https://www.airhistory.net/photo/129027/N7780B), the Howard Hughes
+plane. It's still flying today with Everts Air Fuel, with Hughes painted on it
+and the title "The Aviator".
 
 ![On approach along St. George's north shore: a pickup with orange beacons on its roof parked on the red gravel track, the cliffs and the sea on the left, and the strip ahead](docs/pstg-approach-dads-truck.jpg)
 
