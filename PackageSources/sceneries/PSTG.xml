@@ -1,153 +1,159 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<SceneryObject displayName="Freighter: cargo ship 1" lat="56.4006593245" lon="-169.6878528155" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{CF2B8E0D-0F88-4F07-968E-EC95D2108D4D}" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject displayName="Freighter: oil tanker 1" lat="56.3507491556" lon="-169.4774103884" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="280.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{01DA7DC3-9FCA-41C3-B877-A951C2A3EFC0}" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject displayName="Freighter: gas carrier" lat="56.3008389867" lon="-169.7479792232" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="60.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Freighter: gas carrier" groupIndex="11" lat="56.30083898670000" lon="-169.74797922319999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="60.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{184B605E-5595-4E0A-BAF9-DE0312FF764F}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Freighter: cargo ship 2" lat="56.2675655408" lon="-169.3571575730" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="255.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{CF2B8E0D-0F88-4F07-968E-EC95D2108D4D}" scale="1.000000"/>
-	</SceneryObject>
-	<SceneryObject displayName="Freighter: oil tanker 2" lat="56.4172960474" lon="-169.2970311652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="130.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Freighter: oil tanker 1" groupIndex="12" lat="56.35074915560000" lon="-169.47741038839999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-80.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{01DA7DC3-9FCA-41C3-B877-A951C2A3EFC0}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Dock mobile crane" lat="56.60406135010000" lon="-169.54996469829999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Freighter: oil tanker 2" groupIndex="14" lat="56.41729604740000" lon="-169.29703116520000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="130.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{01DA7DC3-9FCA-41C3-B877-A951C2A3EFC0}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="Freighter: cargo ship 2" groupIndex="10" lat="56.26756554080000" lon="-169.35715757299999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-105.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CF2B8E0D-0F88-4F07-968E-EC95D2108D4D}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="Freighter: cargo ship 1" groupIndex="13" lat="56.40065932450000" lon="-169.68785281550001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{CF2B8E0D-0F88-4F07-968E-EC95D2108D4D}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="Dock mobile crane" groupIndex="15" lat="56.60406135010000" lon="-169.54996469829999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{951AE90B-939A-49C6-9DFC-D6405E73B49F}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Dock light mast" groupIndex="3" lat="56.60403269590000" lon="-169.55025410100001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Dock light mast" groupIndex="18" lat="56.60403269590000" lon="-169.55025410100001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{44D35426-C8F6-4D94-27AE-2D04C64081E9}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Jet fuel tank" groupIndex="100" lat="56.59908600957395" lon="-169.57477834541692" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Jet fuel tank" groupIndex="115" lat="56.59908600957395" lon="-169.57477834541692" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{E2316095-4CF1-4AC1-A7B0-8E7065FC77B4}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Gen_Hangar04" groupIndex="104" lat="56.60082257586002" lon="-169.57764400211209" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Gen_Hangar04" groupIndex="119" lat="56.60082257586002" lon="-169.57764400211209" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{246AB855-9482-4239-B5EA-541CD0FAA515}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Weather station house" groupIndex="19" lat="56.59936882051313" lon="-169.57538215390429" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Weather station house" groupIndex="34" lat="56.59936882051313" lon="-169.57538215390429" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{BD291C5E-D917-4ECD-ABDB-749FD677550D}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Fuel pump" groupIndex="99" lat="56.59950093536693" lon="-169.57514322497121" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="90.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Fuel pump" groupIndex="114" lat="56.59950093536693" lon="-169.57514322497121" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="90.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{81F6E747-1A49-4E17-BA02-89E2E461C44B}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Forklift (large)" groupIndex="95" lat="56.59936833262345" lon="-169.57554806415004" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-3.000010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Forklift (large)" groupIndex="110" lat="56.59936833262345" lon="-169.57554806415004" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-3.000010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{05DFA5D2-E5B8-B4BF-9AE9-32BC70087BBC}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Flatbed truck" groupIndex="34" lat="56.59937000000000" lon="-169.57561500000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-3.000010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Flatbed truck" groupIndex="49" lat="56.59937000000000" lon="-169.57561500000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-3.000010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{DD40C9DD-753B-B6AB-37E6-540D30ADE156}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="PAPB SRI 399 NDB mast" groupIndex="21" lat="56.57183333000000" lon="-169.64750000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="PAPB SRI 399 NDB mast" groupIndex="36" lat="56.57183333000000" lon="-169.64750000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D133BF39-BE5D-4AE6-8609-DD872AEA1488}" scale="0.067000"/>
 	</SceneryObject>
-	<SceneryObject displayName="SRI NDB mast" groupIndex="20" lat="56.59956831957430" lon="-169.54221338051991" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="SRI NDB mast" groupIndex="35" lat="56.59956831957430" lon="-169.54221338051991" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{D133BF39-BE5D-4AE6-8609-DD872AEA1488}" scale="0.067000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="102" lat="56.60228506580918" lon="-169.54327017322868" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-107.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Mom's sedan" groupIndex="8" lat="56.59937000000000" lon="-169.57568842980001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-3.000010" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B8B267E4-987E-4879-8DCD-EF675CAB80AF}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="117" lat="56.60228506580918" lon="-169.54327017322868" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-107.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Oldguydrinking" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="116" lat="56.60390845238962" lon="-169.54998415914179" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Ops pickup (orange beacons)" groupIndex="9" lat="56.60273355000000" lon="-169.60473216000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-63.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<SimObject containerTitle="Pickup 01" liveryName="AERIALAD_02" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject groupIndex="131" lat="56.60390845238962" lon="-169.54998415914179" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Seagull" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject groupIndex="106" lat="56.60100017133539" lon="-169.56525071838584" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="121" lat="56.60100017133539" lon="-169.56525071838584" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<Windsock poleHeight="4.572000" sockLength="2.743200" lighted="FALSE" containerTitle="Windsock"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbml coastguard cutter" groupIndex="112" lat="56.57093004653881" lon="-169.69580039593751" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="60.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbml coastguard cutter" groupIndex="127" lat="56.57093004653881" lon="-169.69580039593751" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="60.000002" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbml coastguard cutter 2" groupIndex="134" lat="56.62800000000000" lon="-169.56500000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-90.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbml coastguard cutter 2" groupIndex="149" lat="56.62800000000000" lon="-169.56500000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-90.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms coastguard boat small" groupIndex="114" lat="56.60393919129424" lon="-169.54170631508217" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms coastguard boat small" groupIndex="129" lat="56.60393919129424" lon="-169.54170631508217" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B7334510-F8B9-489E-BD36-BF22184AD906}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing boat small 1 white" groupIndex="113" lat="56.56758628342452" lon="-169.66694942780663" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing boat small 1 white" groupIndex="128" lat="56.56758628342452" lon="-169.66694942780663" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B7334510-F8B9-489E-BD36-BF22184AD906}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Dock boat small white" groupIndex="1" lat="56.60377649190000" lon="-169.55010641019999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-102.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Dock boat small white" groupIndex="16" lat="56.60377649190000" lon="-169.55010641019999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-102.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{29390644-85C7-43EB-BC9A-F9A9565F96E9}" scale="0.180000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing boat small 2 red" groupIndex="115" lat="56.56762003251706" lon="-169.66683154929851" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing boat small 2 red" groupIndex="130" lat="56.56762003251706" lon="-169.66683154929851" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{76F008E7-997E-46D6-812D-7E7846F4713D}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Dock boat small red" groupIndex="2" lat="56.6041039065" lon="-169.5496761712" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="168.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="Dock boat small red" groupIndex="17" lat="56.6041039065" lon="-169.5496761712" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="168.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{470161E2-2874-4809-A41C-18041664CFA1}" scale="0.180000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing boat small 3 blue" groupIndex="118" lat="56.56767824794593" lon="-169.66653360013265" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing boat small 3 blue" groupIndex="133" lat="56.56767824794593" lon="-169.66653360013265" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B7334510-F8B9-489E-BD36-BF22184AD906}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing boat small 4" groupIndex="110" lat="56.60439803689592" lon="-169.59062514663916" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="162.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing boat small 4" groupIndex="125" lat="56.60439803689592" lon="-169.59062514663916" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="162.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{76F008E7-997E-46D6-812D-7E7846F4713D}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 1" groupIndex="107" lat="56.56894844130770" lon="-169.67413775532344" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-94.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 1" groupIndex="122" lat="56.56894844130770" lon="-169.67413775532344" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-94.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{470161E2-2874-4809-A41C-18041664CFA1}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 1" groupIndex="120" lat="56.60920000000000" lon="-169.58949999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="172.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 1" groupIndex="135" lat="56.60920000000000" lon="-169.58949999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="172.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B163A0DF-88DE-43E8-A62A-8BB9F9B6DC5D}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 10 blue" groupIndex="129" lat="56.61460000000000" lon="-169.55119999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-175.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 10 blue" groupIndex="144" lat="56.61460000000000" lon="-169.55119999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-175.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B163A0DF-88DE-43E8-A62A-8BB9F9B6DC5D}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 11 blue" groupIndex="130" lat="56.61100000000000" lon="-169.54679999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="172.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 11 blue" groupIndex="145" lat="56.61100000000000" lon="-169.54679999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="172.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{470161E2-2874-4809-A41C-18041664CFA1}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 11 red" groupIndex="109" lat="56.60743544925618" lon="-169.63043452337652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 11 red" groupIndex="124" lat="56.60743544925618" lon="-169.63043452337652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.000011" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 12" groupIndex="131" lat="56.60800000000000" lon="-169.54320000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-145.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 12" groupIndex="146" lat="56.60800000000000" lon="-169.54320000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-145.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 13" groupIndex="132" lat="56.61350000000000" lon="-169.54050000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="178.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 13" groupIndex="147" lat="56.61350000000000" lon="-169.54050000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="178.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{29390644-85C7-43EB-BC9A-F9A9565F96E9}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 14" groupIndex="133" lat="56.61650000000000" lon="-169.55900000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 14" groupIndex="148" lat="56.61650000000000" lon="-169.55900000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="95.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 2" groupIndex="121" lat="56.61280000000000" lon="-169.58380000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-165.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 2" groupIndex="136" lat="56.61280000000000" lon="-169.58380000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-165.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{470161E2-2874-4809-A41C-18041664CFA1}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 3 blue" groupIndex="111" lat="56.57720815443429" lon="-169.71137306168191" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="41.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 3 blue" groupIndex="126" lat="56.57720815443429" lon="-169.71137306168191" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="41.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B163A0DF-88DE-43E8-A62A-8BB9F9B6DC5D}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 3 blue" groupIndex="122" lat="56.60810000000000" lon="-169.57900000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-177.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 3 blue" groupIndex="137" lat="56.60810000000000" lon="-169.57900000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-177.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5CF8E7A4-1183-4AE9-BCD6-1FEBC2A82D09}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 4" groupIndex="123" lat="56.61410000000000" lon="-169.57620000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="168.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 4" groupIndex="138" lat="56.61410000000000" lon="-169.57620000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="168.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{29390644-85C7-43EB-BC9A-F9A9565F96E9}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 5" groupIndex="101" lat="56.56975969216467" lon="-169.66771971072373" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 5" groupIndex="116" lat="56.56975969216467" lon="-169.66771971072373" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{29390644-85C7-43EB-BC9A-F9A9565F96E9}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 5" groupIndex="124" lat="56.61060000000000" lon="-169.57110000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-155.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 5" groupIndex="139" lat="56.61060000000000" lon="-169.57110000000000" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-155.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B163A0DF-88DE-43E8-A62A-8BB9F9B6DC5D}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 6 blue" groupIndex="125" lat="56.61530000000000" lon="-169.56649999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="176.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 6 blue" groupIndex="140" lat="56.61530000000000" lon="-169.56649999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="176.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5CF8E7A4-1183-4AE9-BCD6-1FEBC2A82D09}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 7" groupIndex="108" lat="56.60708094029217" lon="-169.57253342957253" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 7" groupIndex="123" lat="56.60708094029217" lon="-169.57253342957253" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{43ACD44B-9D5A-4171-A380-D1D9D22F1080}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 7" groupIndex="126" lat="56.60980000000000" lon="-169.56280000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-170.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 7" groupIndex="141" lat="56.60980000000000" lon="-169.56280000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-170.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{470161E2-2874-4809-A41C-18041664CFA1}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 8" groupIndex="127" lat="56.61270000000000" lon="-169.55869999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="162.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 8" groupIndex="142" lat="56.61270000000000" lon="-169.55869999999999" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="162.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{29390644-85C7-43EB-BC9A-F9A9565F96E9}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 9 green" groupIndex="105" lat="56.56808002885200" lon="-169.66659343657054" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 9 green" groupIndex="120" lat="56.56808002885200" lon="-169.66659343657054" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="156.000004" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5CF8E7A4-1183-4AE9-BCD6-1FEBC2A82D09}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms fishing ship 9 red" groupIndex="128" lat="56.60850000000000" lon="-169.55410000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-160.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms fishing ship 9 red" groupIndex="143" lat="56.60850000000000" lon="-169.55410000000001" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-160.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5CF8E7A4-1183-4AE9-BCD6-1FEBC2A82D09}" scale="0.650000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms tugboat small" groupIndex="119" lat="56.56791367134313" lon="-169.66731349970161" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-26.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms tugboat small" groupIndex="134" lat="56.56791367134313" lon="-169.66731349970161" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-26.000003" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B7334510-F8B9-489E-BD36-BF22184AD906}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="sbms workboat 1 red" groupIndex="117" lat="56.56765986631339" lon="-169.66669658049508" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="sbms workboat 1 red" groupIndex="132" lat="56.56765986631339" lon="-169.66669658049508" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="151.000005" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B7334510-F8B9-489E-BD36-BF22184AD906}" scale="1.000000"/>
 	</SceneryObject>
-	<Polygon version="0.5.0" displayName="Runway grass exclusion" groupIndex="98" altitude="39.32390594482422">
+	<Polygon version="0.5.0" displayName="Runway grass exclusion" groupIndex="113" altitude="39.32390594482422">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5F242BEE-06B3-4603-A88E-CDCCCBD58673}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15132386"/>
@@ -162,7 +168,7 @@
 		<Vertex lat="56.60200000000000" lon="-169.55689000000001"/>
 		<Vertex lat="56.60200000000000" lon="-169.58099999999999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="60" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="75" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2404C2D3-5A72-41EE-9142-37ADB2EA75D5}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -182,7 +188,7 @@
 		<Vertex lat="56.56409301700000" lon="-169.66214727369999"/>
 		<Vertex lat="56.56421909270000" lon="-169.66171760110001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="61" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="76" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{F57BE78D-0089-413F-BC9D-F78B002C29D8}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -208,7 +214,7 @@
 		<Vertex lat="56.56755888020000" lon="-169.65859667570001"/>
 		<Vertex lat="56.56909748820000" lon="-169.65672527400000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="62" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="77" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{FC26FB2A-7E9C-4DF8-AD94-66B89FA07756}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -236,7 +242,7 @@
 		<Vertex lat="56.56784680410000" lon="-169.66531526660000"/>
 		<Vertex lat="56.56807288420000" lon="-169.66526888350000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="63" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="78" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3241104F-8030-48ED-BFDA-CDFC066C7FBE}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -270,7 +276,7 @@
 		<Vertex lat="56.56783471440000" lon="-169.66831294740001"/>
 		<Vertex lat="56.56782633790000" lon="-169.66807355029999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Zapadni Bay Road (gray)" groupIndex="64" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Zapadni Bay Road (gray)" groupIndex="79" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{C7561458-78EA-4D2B-B323-AA4CEF3C7213}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -318,7 +324,7 @@
 		<Vertex lat="56.56789171480000" lon="-169.66806243900001"/>
 		<Vertex lat="56.56800423860000" lon="-169.66764269460000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="65" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="80" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{4D595B78-E52E-4B4E-8C91-6F385DD3975B}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -350,7 +356,7 @@
 		<Vertex lat="56.56966035640000" lon="-169.66631350759999"/>
 		<Vertex lat="56.56947135210000" lon="-169.66697502290000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="66" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="81" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{0183FFA8-89B7-45FC-9D2D-8737D2E67F1E}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -390,7 +396,7 @@
 		<Vertex lat="56.57094799040000" lon="-169.66879615950000"/>
 		<Vertex lat="56.57097568580000" lon="-169.66861186340000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="67" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="82" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{95B08EA6-C359-45EE-92A9-850EEB12ACF0}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -404,7 +410,7 @@
 		<Vertex lat="56.57037769280000" lon="-169.66982676250001"/>
 		<Vertex lat="56.57061629280000" lon="-169.67000636250000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="68" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="83" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2E18E93E-36A5-444D-BA99-2C3E82557645}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -418,7 +424,7 @@
 		<Vertex lat="56.57061457560000" lon="-169.67001390140001"/>
 		<Vertex lat="56.57074127560000" lon="-169.67010940140000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="69" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="84" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{1272E74B-25C5-4476-8B01-FD062D1FAFC4}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -450,7 +456,7 @@
 		<Vertex lat="56.57168707480000" lon="-169.67088986100001"/>
 		<Vertex lat="56.57189882080000" lon="-169.67024704670001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="70" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="85" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{FE662852-DA72-4B83-827D-A5BCA4A5AF7F}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -466,7 +472,7 @@
 		<Vertex lat="56.57101464720000" lon="-169.67020189869999"/>
 		<Vertex lat="56.57114594720000" lon="-169.67048670010001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="71" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="86" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{484DF9A6-F25D-40CF-90BD-0914DC1D9BD7}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -510,7 +516,7 @@
 		<Vertex lat="56.57347516150000" lon="-169.67094866319999"/>
 		<Vertex lat="56.57344557610000" lon="-169.67122290059999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="72" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="87" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{24942DA3-EE95-449C-8E4E-26F59E7A8ED7}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -538,7 +544,7 @@
 		<Vertex lat="56.57224418020000" lon="-169.66749186019999"/>
 		<Vertex lat="56.57250019650000" lon="-169.66662116480001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="73" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: unclassified (gray)" groupIndex="88" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{099CECFB-3750-4E5B-8586-321F6BCCA1D9}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -556,7 +562,7 @@
 		<Vertex lat="56.57300295580000" lon="-169.65731594270000"/>
 		<Vertex lat="56.57325999820000" lon="-169.65909639969999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Malavanisky Drive (gray)" groupIndex="74" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Malavanisky Drive (gray)" groupIndex="89" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{33023DA5-17A7-4819-8693-9F6565A7DF24}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -580,7 +586,7 @@
 		<Vertex lat="56.57317386340000" lon="-169.66195022330001"/>
 		<Vertex lat="56.57378142900000" lon="-169.66135188609999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Airport Road (gray)" groupIndex="75" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Airport Road (gray)" groupIndex="90" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{539B0391-F914-4A00-A4F6-833A769B180E}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -638,7 +644,7 @@
 		<Vertex lat="56.57195268990000" lon="-169.65374572869999"/>
 		<Vertex lat="56.57171425380000" lon="-169.65303494390000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="76" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="91" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{40F9138D-3BE7-41FE-B148-296273B1121D}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -662,7 +668,7 @@
 		<Vertex lat="56.57394004240000" lon="-169.65255473369999"/>
 		<Vertex lat="56.57399092820000" lon="-169.65295618779999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="35" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="50" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{845B460B-39C8-4534-AA40-747CDFEFB064}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -676,7 +682,7 @@
 		<Vertex lat="56.57437561830000" lon="-169.65266779640001"/>
 		<Vertex lat="56.57385801830000" lon="-169.65103899639999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="78" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="93" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2E2F8981-30B9-465E-90FC-9D8FDA7B33D2}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -706,7 +712,7 @@
 		<Vertex lat="56.57581416370000" lon="-169.67375376830000"/>
 		<Vertex lat="56.57584713380000" lon="-169.67356384889999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Harbor View Drive (gray)" groupIndex="79" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Harbor View Drive (gray)" groupIndex="94" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{89B00E39-E4E9-4DFD-BFA0-EAEED407C965}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -870,7 +876,7 @@
 		<Vertex lat="56.56866730000000" lon="-169.66643626280000"/>
 		<Vertex lat="56.56857953920000" lon="-169.66634992400000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="80" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="95" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2E2A0642-B1AE-4547-81CC-E61D825D2F4C}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -898,7 +904,7 @@
 		<Vertex lat="56.58210924450000" lon="-169.59467136489999"/>
 		<Vertex lat="56.58355117280000" lon="-169.59376248400000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="81" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="96" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{C3F6FA7D-15EB-483E-81E7-F3462D06CC0D}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -944,7 +950,7 @@
 		<Vertex lat="56.58380293720000" lon="-169.59404258000001"/>
 		<Vertex lat="56.58479122010000" lon="-169.59527000720001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="82" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="97" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{569E687B-CF43-4B74-A471-34CA0B513855}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -960,7 +966,7 @@
 		<Vertex lat="56.58146718680000" lon="-169.67719673799999"/>
 		<Vertex lat="56.58168293190000" lon="-169.67790308560001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="83" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="98" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{CEB16D0C-1F3B-4F97-BE21-B82508367E2D}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -990,7 +996,7 @@
 		<Vertex lat="56.58204464390000" lon="-169.67910974509999"/>
 		<Vertex lat="56.58249590170000" lon="-169.68075466209999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Zapadni Bay Road (gray)" groupIndex="84" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Zapadni Bay Road (gray)" groupIndex="99" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{10B5EED2-327E-4C3A-AE71-C253EF37CA76}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1176,7 +1182,7 @@
 		<Vertex lat="56.60046684460000" lon="-169.58178714400000"/>
 		<Vertex lat="56.60052217650000" lon="-169.58120076530000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="85" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="100" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{C43C581E-0E83-449B-B84C-0316D4F6838B}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1202,7 +1208,7 @@
 		<Vertex lat="56.58327223480000" lon="-169.62336183270000"/>
 		<Vertex lat="56.58231747830000" lon="-169.62325612609999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="86" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="101" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{59B81F8C-1E8E-4989-85B0-B68CFFF74EA2}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1242,7 +1248,7 @@
 		<Vertex lat="56.58407370240000" lon="-169.68025883979999"/>
 		<Vertex lat="56.58361785640000" lon="-169.68054829750000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Windmill Road (red)" groupIndex="87" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Windmill Road (red)" groupIndex="102" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{B3F1ADDD-0A9B-4143-8871-CBE505FBAD2D}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1256,7 +1262,7 @@
 		<Vertex lat="56.58609154440000" lon="-169.61390620559999"/>
 		<Vertex lat="56.58681994440000" lon="-169.61508000559999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Quarry Road (red)" groupIndex="88" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Quarry Road (red)" groupIndex="103" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{28833809-6D8B-41FA-B4D3-A03F0B859725}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1312,7 +1318,7 @@
 		<Vertex lat="56.59023528080000" lon="-169.60359640470000"/>
 		<Vertex lat="56.59060596400000" lon="-169.60381953149999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="89" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="104" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{1A2EE34C-9733-4D7C-AC3C-C5F2EBAB86B3}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1334,7 +1340,7 @@
 		<Vertex lat="56.58967212640000" lon="-169.60474697810000"/>
 		<Vertex lat="56.58995770460000" lon="-169.60565097590001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Cemetery Hill Road (gray)" groupIndex="90" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Cemetery Hill Road (gray)" groupIndex="105" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{B004FDEC-E1E0-46EA-8D37-44CE88BC5C12}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1426,7 +1432,7 @@
 		<Vertex lat="56.59590106850000" lon="-169.53343207390000"/>
 		<Vertex lat="56.59605529390000" lon="-169.53269875320001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="91" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="106" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{982CBD81-2D0B-4424-9BC4-D64894FD5EF0}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1448,7 +1454,7 @@
 		<Vertex lat="56.59862107420000" lon="-169.59537090149999"/>
 		<Vertex lat="56.59817379790000" lon="-169.59615895499999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="92" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="107" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2208905B-92AB-49D6-92D7-6E9084F522B6}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1478,7 +1484,7 @@
 		<Vertex lat="56.59958344150000" lon="-169.54199620680001"/>
 		<Vertex lat="56.59967373600000" lon="-169.54210236380001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Choochki Heights (red)" groupIndex="93" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Choochki Heights (red)" groupIndex="108" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D29D53E9-13CE-46A2-8C56-468987D3DCC8}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1522,7 +1528,7 @@
 		<Vertex lat="56.60084732460000" lon="-169.55014700269999"/>
 		<Vertex lat="56.60119460890000" lon="-169.54993759600001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Cemetery Hill Road (red)" groupIndex="94" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Cemetery Hill Road (red)" groupIndex="109" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{A084AF97-967D-42C9-8E66-9B30BD5C88F4}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1540,7 +1546,7 @@
 		<Vertex lat="56.60001801660000" lon="-169.54546160780001"/>
 		<Vertex lat="56.59956431550000" lon="-169.54601318159999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="22" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="37" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{53801270-E25D-455F-A7C0-4B48D5478A99}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1560,7 +1566,7 @@
 		<Vertex lat="56.60070784300000" lon="-169.58503297420000"/>
 		<Vertex lat="56.59991860580000" lon="-169.58438724379999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="23" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="38" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{D13D1081-9B68-4764-8EA3-0475D370D31B}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1574,7 +1580,7 @@
 		<Vertex lat="56.60085657310000" lon="-169.54657895320000"/>
 		<Vertex lat="56.60086327310000" lon="-169.54701105320001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Zapadni Bay Road (gray)" groupIndex="25" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Zapadni Bay Road (gray)" groupIndex="40" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{592F9493-FA11-4AA7-A34E-CD2DC293D39D}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1596,7 +1602,7 @@
 		<Vertex lat="56.60094710370000" lon="-169.55218497870001"/>
 		<Vertex lat="56.60144296020000" lon="-169.55026697790001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Satellite Avenue (red)" groupIndex="24" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Satellite Avenue (red)" groupIndex="39" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{6E19D486-0B1A-4A55-9F3A-80D0170D7D35}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1612,7 +1618,7 @@
 		<Vertex lat="56.60092296740000" lon="-169.54619931440001"/>
 		<Vertex lat="56.60085556650000" lon="-169.54659221960000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="26" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="41" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{18A36F0E-59F1-479D-92B5-662AE43E3EE9}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1646,7 +1652,7 @@
 		<Vertex lat="56.60121402730000" lon="-169.54994218819999"/>
 		<Vertex lat="56.60148408790000" lon="-169.55025461119999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Rec Hall Drive (red)" groupIndex="27" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Rec Hall Drive (red)" groupIndex="42" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{FFE6D043-12E8-4F65-A306-26529A4516EC}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1660,7 +1666,7 @@
 		<Vertex lat="56.60122200710000" lon="-169.54650280080000"/>
 		<Vertex lat="56.60107180710000" lon="-169.54707640079999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="28" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="43" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{A9C94CA2-DFEB-481D-85D8-1880CAB5A0CB}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1676,7 +1682,7 @@
 		<Vertex lat="56.60117484900000" lon="-169.54860588810001"/>
 		<Vertex lat="56.60096163330000" lon="-169.54869489769999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="29" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="44" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{40A343FB-B125-47C8-8022-F8897BB427B5}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1700,7 +1706,7 @@
 		<Vertex lat="56.60132642500000" lon="-169.54728546769999"/>
 		<Vertex lat="56.60155785530000" lon="-169.54749542100001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="30" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="45" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{78DB22AB-9B4E-4DFB-8892-DDF1E364DA54}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1736,7 +1742,7 @@
 		<Vertex lat="56.60092512440000" lon="-169.54755623910000"/>
 		<Vertex lat="56.60083623130000" lon="-169.54756280170000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="31" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="46" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2D8F1B11-BB4F-48B9-8829-459F2A381C11}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1760,7 +1766,7 @@
 		<Vertex lat="56.60081333030000" lon="-169.54471844529999"/>
 		<Vertex lat="56.60062733130000" lon="-169.54444131860001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: West Central Avenue (red)" groupIndex="32" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: West Central Avenue (red)" groupIndex="47" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{A4A83E4E-B2DD-4B53-A15B-D7E6AF5CC560}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1774,7 +1780,7 @@
 		<Vertex lat="56.60133777000000" lon="-169.54733915940000"/>
 		<Vertex lat="56.60128737000000" lon="-169.54754645940000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Maxwell Drive (red)" groupIndex="33" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Maxwell Drive (red)" groupIndex="48" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{24D5E229-D802-4965-9E5A-9A89196F5A2E}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1802,7 +1808,7 @@
 		<Vertex lat="56.60123614590000" lon="-169.54647997750001"/>
 		<Vertex lat="56.60121771720000" lon="-169.54651392060001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="36" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="51" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{46C1EFFB-4A59-4F3F-84A7-F08F55B3EBDB}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1870,7 +1876,7 @@
 		<Vertex lat="56.60005935530000" lon="-169.59495007880000"/>
 		<Vertex lat="56.59988764520000" lon="-169.59330094219999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Central Avenue (red)" groupIndex="37" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Central Avenue (red)" groupIndex="52" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{869A0BD7-C540-4466-9BBC-D2FF6191480E}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1884,7 +1890,7 @@
 		<Vertex lat="56.60147220490000" lon="-169.54664715059999"/>
 		<Vertex lat="56.60133840490000" lon="-169.54733625060001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Zapadni Road (red)" groupIndex="38" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Zapadni Road (red)" groupIndex="53" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3D76B538-5491-4EE3-8847-F4C628569285}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1916,7 +1922,7 @@
 		<Vertex lat="56.60129914750000" lon="-169.54912212750000"/>
 		<Vertex lat="56.60122390440000" lon="-169.54998268960000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="39" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="54" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5A1F7A15-A557-4A53-8935-32B7C1D23B0C}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1930,7 +1936,7 @@
 		<Vertex lat="56.60141995050000" lon="-169.54475641220000"/>
 		<Vertex lat="56.60180045050000" lon="-169.54498081220001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="40" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="55" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{B79161DF-68E6-4F0F-9227-F459979F734A}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1944,7 +1950,7 @@
 		<Vertex lat="56.60152670650000" lon="-169.54786858669999"/>
 		<Vertex lat="56.60178260650000" lon="-169.54817578670000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="41" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="56" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E221240F-DD1F-43A6-992F-1FD549AA4D18}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -1968,7 +1974,7 @@
 		<Vertex lat="56.60161589920000" lon="-169.54868084770001"/>
 		<Vertex lat="56.60138319820000" lon="-169.54854029750001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="42" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="57" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{2022F642-F08A-49AF-906A-6FC01C68BB9A}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2006,7 +2012,7 @@
 		<Vertex lat="56.60236765400000" lon="-169.54199614429999"/>
 		<Vertex lat="56.60265583470000" lon="-169.54180372430000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="43" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="58" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{5FCCD94E-2477-4B56-AF64-685A2E7BE196}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2022,7 +2028,7 @@
 		<Vertex lat="56.60183590950000" lon="-169.60393383429999"/>
 		<Vertex lat="56.60233599150000" lon="-169.60332596999999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="44" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="59" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{844EC8D9-3667-4657-949E-FA07228AB904}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2050,7 +2056,7 @@
 		<Vertex lat="56.60211563880000" lon="-169.54513750289999"/>
 		<Vertex lat="56.60219844360000" lon="-169.54532772229999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="45" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="60" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{F2BF6116-FADD-48CE-AAE0-7BD856FF8501}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2078,7 +2084,7 @@
 		<Vertex lat="56.60240001500000" lon="-169.54865205039999"/>
 		<Vertex lat="56.60248372930000" lon="-169.54864141380000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="46" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="61" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{36E0A8EA-1209-44E6-A5C0-8F45370B37DD}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2098,7 +2104,7 @@
 		<Vertex lat="56.60217803240000" lon="-169.54829494719999"/>
 		<Vertex lat="56.60217506760000" lon="-169.54821410770001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="47" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="62" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{6083200F-2BDF-483E-BFC3-5DEBD7F6C56F}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2146,7 +2152,7 @@
 		<Vertex lat="56.60303397560000" lon="-169.54603717000001"/>
 		<Vertex lat="56.60313622630000" lon="-169.54630253240001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: Church Avenue (red)" groupIndex="48" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: Church Avenue (red)" groupIndex="63" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{B7EC2E12-F3E8-44E0-B81A-0C5F456479E9}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2174,7 +2180,7 @@
 		<Vertex lat="56.60245103740000" lon="-169.54847671840000"/>
 		<Vertex lat="56.60250518800000" lon="-169.54866308109999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: West Government Street East (red)" groupIndex="77" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: West Government Street East (red)" groupIndex="92" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{52537669-426A-4933-B2A3-DD4ECD61EACB}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2210,7 +2216,7 @@
 		<Vertex lat="56.60200945070000" lon="-169.54732405120001"/>
 		<Vertex lat="56.60179078020000" lon="-169.54822621730000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="49" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="64" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{19CF956C-2067-4ABE-9477-CCF5E63DB6C6}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2224,7 +2230,7 @@
 		<Vertex lat="56.60282514510000" lon="-169.53979376909999"/>
 		<Vertex lat="56.60254124510000" lon="-169.54077546910000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="50" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="65" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{85C88651-A496-48CC-BFE7-685257B007F1}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2290,7 +2296,7 @@
 		<Vertex lat="56.60164507710000" lon="-169.55005177650000"/>
 		<Vertex lat="56.60148733860000" lon="-169.55031881890000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="51" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="66" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{C19FF6E9-5682-483B-B0E4-8CD18BB16D3C}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2312,7 +2318,7 @@
 		<Vertex lat="56.60302049460000" lon="-169.54489035969999"/>
 		<Vertex lat="56.60313444400000" lon="-169.54505837990001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="52" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: residential (red)" groupIndex="67" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{7E7D3AFF-9DEF-4F89-A12D-D0D0B98FB2CE}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2340,7 +2346,7 @@
 		<Vertex lat="56.60308384780000" lon="-169.54810701730000"/>
 		<Vertex lat="56.60305866850000" lon="-169.54780357129999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="53" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="68" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{45662D17-C2E9-433A-B9E4-C55AAC7316A7}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2386,7 +2392,7 @@
 		<Vertex lat="56.60211386540000" lon="-169.57789542830000"/>
 		<Vertex lat="56.60200356060000" lon="-169.57790822170000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="54" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="69" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{A3B3A9BB-0169-4C35-A7CD-8DDC2BB4DADB}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2410,7 +2416,7 @@
 		<Vertex lat="56.60320139270000" lon="-169.54726757730000"/>
 		<Vertex lat="56.60309396060000" lon="-169.54723302779999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="55" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="70" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{503DD7C0-CAE1-4682-9693-A346373DA55F}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2598,7 +2604,7 @@
 		<Vertex lat="56.60199004920000" lon="-169.53549250910001"/>
 		<Vertex lat="56.60230884220000" lon="-169.53847313870000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="56" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="71" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{69AF3D8C-6483-4150-8E4C-45967FD8E50D}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2632,7 +2638,7 @@
 		<Vertex lat="56.60328996240000" lon="-169.54783737840000"/>
 		<Vertex lat="56.60308055660000" lon="-169.54783012269999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="57" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: service (red)" groupIndex="72" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E7CAE520-D61B-4E7F-B9B9-7A77CE60FA9B}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2650,7 +2656,7 @@
 		<Vertex lat="56.60336775920000" lon="-169.54296682000000"/>
 		<Vertex lat="56.60314299810000" lon="-169.54311106079999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="58" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="73" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{0FFCFF44-C8CC-4BAB-BB72-D507EA760B2C}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2682,7 +2688,7 @@
 		<Vertex lat="56.60321526580000" lon="-169.57724738720000"/>
 		<Vertex lat="56.60306149300000" lon="-169.57722650320000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="59" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road: track (red)" groupIndex="74" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{EE0BD9D5-65D6-4010-80FE-74E20B20C9EB}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
@@ -2712,7 +2718,33 @@
 		<Vertex lat="56.60352972080000" lon="-169.54396521199999"/>
 		<Vertex lat="56.60315973530000" lon="-169.54383522510000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="cliff" groupIndex="103" altitude="1.35909903049469">
+	<Polygon version="0.5.0" displayName="Marine dock (concrete)" groupIndex="19" altitude="0.00000000000000">
+		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{7F283605-3AD9-4CCE-B465-45BEF51183A7}"/>
+		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
+		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{DF30C0BF-6575-4418-AFC0-653E441F9048}"/>
+		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="31"/>
+		<Attribute name="ExclusionFlags" guid="{4CACC252-E6DC-419A-B20C-16EC601DF70E}" type="UINT32" value="1"/>
+		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
+		<Attribute name="RocksScale" guid="{D5F9FE69-EBD5-44DF-9ACB-155063B5B9C5}" type="UINT32" value="127"/>
+		<Attribute name="RocksDensity" guid="{DC8F839B-A39D-4C23-B01F-C175CFD69E45}" type="UINT32" value="255"/>
+		<Vertex lat="56.60380326950000" lon="-169.55020725669999"/>
+		<Vertex lat="56.60379308820000" lon="-169.54996554819999"/>
+		<Vertex lat="56.60377635400000" lon="-169.54972508239999"/>
+		<Vertex lat="56.60371750030000" lon="-169.54941638139999"/>
+		<Vertex lat="56.60365567860000" lon="-169.54912291250000"/>
+		<Vertex lat="56.60378232250000" lon="-169.54902724420000"/>
+		<Vertex lat="56.60382980520000" lon="-169.54921721209999"/>
+		<Vertex lat="56.60391393760000" lon="-169.54952449030000"/>
+		<Vertex lat="56.60398092740000" lon="-169.54967631989999"/>
+		<Vertex lat="56.60408704090000" lon="-169.54972474930000"/>
+		<Vertex lat="56.60423625810000" lon="-169.54981714159999"/>
+		<Vertex lat="56.60425202100000" lon="-169.55007609579999"/>
+		<Vertex lat="56.60416016580000" lon="-169.55034209780001"/>
+		<Vertex lat="56.60404597150000" lon="-169.55048171769999"/>
+		<Vertex lat="56.60385917420000" lon="-169.55037697960000"/>
+	</Polygon>
+	<Polygon version="0.5.0" displayName="cliff" groupIndex="118" altitude="1.35909903049469">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3628A72D-61F3-4B43-8E55-D7B2BCFEBAD7}"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
@@ -2729,7 +2761,7 @@
 		<Vertex lat="56.60215537191421" lon="-169.56214296487866"/>
 		<Vertex lat="56.60160127044269" lon="-169.56071154730037"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: old pad" groupIndex="10" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: old pad" groupIndex="25" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{4C09798E-63B0-465C-8F71-C5B08EFB7668}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2738,7 +2770,7 @@
 		<Vertex lat="56.59814260994100" lon="-169.57574572963301"/>
 		<Vertex lat="56.59817787346850" lon="-169.57517819315100"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: road to pad" groupIndex="9" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: road to pad" groupIndex="24" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{CDF0C907-B784-4CBB-8A58-7D8172F5AD0A}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2747,7 +2779,7 @@
 		<Vertex lat="56.59846699590000" lon="-169.57547008169999"/>
 		<Vertex lat="56.59906215080000" lon="-169.57557645610001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="11" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="26" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{632FB0E5-8972-45E7-A45E-9A5E8083B25F}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-14277036"/>
@@ -2764,7 +2796,7 @@
 		<Vertex lat="56.59903979390000" lon="-169.57481241159999"/>
 		<Vertex lat="56.59904402610000" lon="-169.57471270450000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: road to tank" groupIndex="8" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: road to tank" groupIndex="23" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{1C0A8DCA-AAA9-4842-BD81-16B5983A8595}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2773,7 +2805,7 @@
 		<Vertex lat="56.59911072230000" lon="-169.57474204530001"/>
 		<Vertex lat="56.59905757750000" lon="-169.57565790190000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: strip 20" groupIndex="7" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: strip 20" groupIndex="22" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{566329E7-8957-427E-AF4A-B662EABC48B3}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2782,7 +2814,7 @@
 		<Vertex lat="56.59901626370000" lon="-169.57557023890001"/>
 		<Vertex lat="56.59933082370000" lon="-169.57559930290000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: south apron" groupIndex="6" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: south apron" groupIndex="21" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{02F53DFF-6E21-4A65-8315-360D425F1301}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2811,7 +2843,7 @@
 		<Vertex lat="56.59964957260000" lon="-169.57656180699999"/>
 		<Vertex lat="56.59958533550000" lon="-169.57644312939999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road in box: Zapadni Bay Road (gray)" groupIndex="5" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road in box: Zapadni Bay Road (gray)" groupIndex="20" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{61879F07-579E-45DC-8E94-12A0A3F99C07}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-12171706"/>
@@ -2880,7 +2912,7 @@
 		<Vertex lat="56.60019883460000" lon="-169.57817523230000"/>
 		<Vertex lat="56.60018268260000" lon="-169.57808072629999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road gap fill: Zapadni Bay Road at 26 end (gray)" groupIndex="18" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road gap fill: Zapadni Bay Road at 26 end (gray)" groupIndex="33" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{3BEB8166-FE3A-446C-AF03-E345DAD9132B}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-12171706"/>
@@ -2889,7 +2921,7 @@
 		<Vertex lat="56.60063745090000" lon="-169.55581749050000"/>
 		<Vertex lat="56.60061722250000" lon="-169.55727086589999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: hangar apron" groupIndex="17" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: hangar apron" groupIndex="32" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{42AF286D-9B87-46E4-A186-C586FEE50BFE}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2922,7 +2954,7 @@
 		<Vertex lat="56.60062130910000" lon="-169.57740799050001"/>
 		<Vertex lat="56.60074082280000" lon="-169.57737510460001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Apron paint: mid-runway apron" groupIndex="16" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Apron paint: mid-runway apron" groupIndex="31" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{B49A3BFD-2C50-451D-8007-9BF5879571BC}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-15394503"/>
@@ -2952,7 +2984,7 @@
 		<Vertex lat="56.60072669730000" lon="-169.56362291689999"/>
 		<Vertex lat="56.60075677320000" lon="-169.56365751889999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="15" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="30" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{9CA905B2-29EF-4543-BD93-03426E7B112E}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-14277036"/>
@@ -3025,7 +3057,7 @@
 		<Vertex lat="56.60047368790000" lon="-169.56987074620000"/>
 		<Vertex lat="56.60042401190000" lon="-169.56990979080001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="14" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="29" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{0C7CDE61-BF39-4B0A-B5A8-A75B5F24A4CE}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-14277036"/>
@@ -3070,7 +3102,7 @@
 		<Vertex lat="56.60105811610000" lon="-169.57795868980000"/>
 		<Vertex lat="56.60100331430000" lon="-169.57795735019999"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="13" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road in box: track (red)" groupIndex="28" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{E0079156-F0CD-491C-8AD9-C57263A1C244}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-14277036"/>
@@ -3129,7 +3161,7 @@
 		<Vertex lat="56.60171723740000" lon="-169.57778946280001"/>
 		<Vertex lat="56.60171791920000" lon="-169.57788774010001"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Road gap fill: mid-runway track (red)" groupIndex="12" altitude="0.00000000000000">
+	<Polygon version="0.5.0" displayName="Road gap fill: mid-runway track (red)" groupIndex="27" altitude="0.00000000000000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{0A6CC718-3562-454A-B5E1-12ADDE4D0211}"/>
 		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{66476E04-94CE-462C-95C3-12B9B850DAB7}"/>
 		<Attribute name="MaterialColoration" guid="{B140B3CC-5887-449C-95CE-98D9E900CB58}" type="UINT32" value="-14277036"/>
@@ -3142,36 +3174,10 @@
 		<Vertex lat="56.60214262520000" lon="-169.56855149760000"/>
 		<Vertex lat="56.60200275390000" lon="-169.56866490970000"/>
 	</Polygon>
-	<Polygon version="0.5.0" displayName="Marine dock (concrete)" groupIndex="4" altitude="0.00000000000000">
-		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{7F283605-3AD9-4CCE-B465-45BEF51183A7}"/>
-		<Attribute name="MaterialGUID" guid="{CD28EFD0-D3F0-43B6-9F88-4E4707344A04}" type="GUID" value="{DF30C0BF-6575-4418-AFC0-653E441F9048}"/>
-		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
-		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="31"/>
-		<Attribute name="ExclusionFlags" guid="{4CACC252-E6DC-419A-B20C-16EC601DF70E}" type="UINT32" value="1"/>
-		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
-		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
-		<Attribute name="RocksScale" guid="{D5F9FE69-EBD5-44DF-9ACB-155063B5B9C5}" type="UINT32" value="127"/>
-		<Attribute name="RocksDensity" guid="{DC8F839B-A39D-4C23-B01F-C175CFD69E45}" type="UINT32" value="255"/>
-		<Vertex lat="56.6038032695" lon="-169.5502072567"/>
-		<Vertex lat="56.6037930882" lon="-169.5499655482"/>
-		<Vertex lat="56.6037763540" lon="-169.5497250824"/>
-		<Vertex lat="56.6037175003" lon="-169.5494163814"/>
-		<Vertex lat="56.6036556786" lon="-169.5491229125"/>
-		<Vertex lat="56.6037823225" lon="-169.5490272442"/>
-		<Vertex lat="56.6038298052" lon="-169.5492172121"/>
-		<Vertex lat="56.6039139376" lon="-169.5495244903"/>
-		<Vertex lat="56.6039809274" lon="-169.5496763199"/>
-		<Vertex lat="56.6040870409" lon="-169.5497247493"/>
-		<Vertex lat="56.6042362581" lon="-169.5498171416"/>
-		<Vertex lat="56.6042520210" lon="-169.5500760958"/>
-		<Vertex lat="56.6041601658" lon="-169.5503420978"/>
-		<Vertex lat="56.6040459715" lon="-169.5504817177"/>
-		<Vertex lat="56.6038591742" lon="-169.5503769796"/>
-	</Polygon>
-	<Rectangle displayName="East end hills" groupIndex="97" width="130.000000" falloff="15.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" precision="TRUE" forceElevation="FALSE" latitude="56.60095000000000" longitude="-169.55625000000001" altitude="35.00000000000000" latitude2="56.60095000000000" longitude2="-169.55289999999999" altitude2="35.00000000000000">
-		<Heightmap width="64" data="42.487305 43.357040 44.142639 44.822338 45.448448 45.985455 46.432610 46.822289 47.160183 47.450127 47.695679 47.907322 48.089832 48.248600 48.384033 48.502678 48.605179 48.691254 48.770634 48.839592 48.901611 48.954617 48.999264 49.041386 49.078430 49.108410 49.138462 49.162960 49.184326 49.206085 49.218853 49.237484 49.250256 49.263016 49.275784 49.283451 49.297138 49.305462 49.313782 49.322109 49.330429 49.338757 49.347076 49.355396 49.363720 49.370228 49.378799 49.387665 49.390003 49.398861 49.401199 49.403553 49.405895 49.401714 49.403759 49.401600 49.398750 49.395885 49.393024 49.390167 49.387314 49.384449 49.381596 49.378731 42.971638 43.777282 44.500715 45.129822 45.716262 46.211920 46.628885 46.995961 47.313649 47.582379 47.813275 48.010385 48.181706 48.330751 48.458734 48.570893 48.669274 48.757737 48.829534 48.895993 48.955518 49.008561 49.053258 49.092923 49.127900 49.162866 49.188630 49.212190 49.236817 49.255609 49.274396 49.287332 49.306016 49.318124 49.330243 49.339379 49.347982 49.361970 49.370519 49.379067 49.387609 49.393883 49.394613 49.395335 49.396064 49.395489 49.389719 49.390468 49.390287 49.396376 49.397424 49.398538 49.399659 49.394499 49.389375 49.392655 49.389598 49.379195 49.376337 49.373549 49.370813 49.368121 49.365465 49.370132 43.407494 44.157026 44.860673 45.462007 46.033073 46.510391 46.921810 47.288796 47.602798 47.852675 48.069003 48.258597 48.419204 48.560916 48.684012 48.792167 48.888057 48.968928 49.043323 49.107276 49.164306 49.214755 49.260192 49.299090 49.331309 49.362639 49.388221 49.411952 49.436656 49.455714 49.474509 49.487735 49.506392 49.518691 49.526980 49.540156 49.548926 49.563014 49.571788 49.580741 49.589522 49.588094 49.562558 49.531712 49.506187 49.479117 49.452731 49.420553 49.398840 49.398040 49.397164 49.396460 49.389489 49.389206 49.382723 49.377395 49.373916 49.370678 49.367644 49.364780 49.362070 49.359466 49.356853 49.354187 43.800373 44.506071 45.209518 45.898146 46.500604 47.010148 47.458519 47.871059 48.219225 48.455763 48.658823 48.835562 48.992231 49.126558 49.245115 49.350637 49.441435 49.522982 49.593275 49.655462 49.712393 49.759355 49.803465 49.839628 49.873693 49.903337 49.927553 49.951612 49.970251 49.988432 50.006601 50.024309 50.036962 50.049101 50.061239 50.075426 50.083403 50.095926 50.103685 50.111437 50.119242 50.096740 50.001309 49.905572 49.809988 49.710612 49.614573 49.512371 49.416340 49.404007 49.400009 49.396327 49.393068 49.384140 49.381627 49.374628 49.370406 49.362870 49.359590 49.356660 49.354015 49.351596 49.348892 49.346596 44.161957 44.840857 45.584789 46.383098 47.038171 47.605806 48.121677 48.603695 49.001417 49.222376 49.416563 49.584520 49.733175 49.864275 49.977274 50.078676 50.168245 50.248254 50.317320 50.380640 50.433550 50.482504 50.522253 50.559339 50.589964 50.617174 50.641546 50.662782 50.680498 50.697488 50.714472 50.730726 50.742460 50.757921 50.768209 50.778898 50.789934 50.799673 50.807008 50.817953 50.824098 50.773460 50.585558 50.397661 50.209759 50.018260 49.830831 49.637241 49.449816 49.419458 49.410994 49.403069 49.395878 49.383370 49.377934 49.368292 49.363141 49.356713 49.351144 49.348062 49.341492 49.338764 49.336353 49.334698 44.494621 45.168431 46.001024 46.978860 47.733364 48.404785 49.030284 49.625479 50.106884 50.317536 50.500015 50.662098 50.803082 50.929314 51.040054 51.139851 51.227570 51.306629 51.374191 51.437008 51.491356 51.538769 51.578972 51.613735 51.644802 51.668354 51.690762 51.711590 51.727394 51.743191 51.758984 51.768814 51.784607 51.794438 51.804264 51.815174 51.825195 51.831700 51.841026 51.849449 51.854695 51.763583 51.441376 51.119153 50.796934 50.476263 50.150478 49.823910 49.502675 49.445546 49.431020 49.417352 49.404859 49.388041 49.377884 49.368954 49.358096 49.352456 49.343955 49.340357 49.333365 49.329916 49.327813 49.326492 44.804935 45.493711 46.467929 47.696344 48.596615 49.424831 50.204042 50.955789 51.557097 51.753623 51.926784 52.083678 52.219821 52.341067 52.449920 52.548049 52.634391 52.712058 52.780917 52.842605 52.896346 52.942687 52.982928 53.018256 53.047824 53.073291 53.094047 53.109675 53.124289 53.138900 53.152259 53.162154 53.170787 53.184485 53.193675 53.200461 53.210315 53.215705 53.223323 53.225966 53.233584 53.089054 52.588251 52.087435 51.586628 51.083764 50.579110 50.074454 49.575969 49.481247 49.459208 49.438456 49.415664 49.396250 49.381376 49.368401 49.355141 49.347694 49.337914 49.333480 49.325096 49.321200 49.319310 49.318432 45.098812 45.818681 46.967927 48.496863 49.576428 50.595872 51.560353 52.501014 53.244132 53.429858 53.594565 53.743842 53.874835 53.993872 54.098460 54.194434 54.279067 54.355406 54.424502 54.484648 54.537436 54.584635 54.623976 54.660025 54.687049 54.710261 54.729426 54.747306 54.760733 54.769705 54.783126 54.791125 54.802493 54.811457 54.818904 54.827239 54.833323 54.839415 54.840716 54.846606 54.847563 54.640761 53.930541 53.216335 52.506608 51.795018 51.082377 50.369738 49.657088 49.502100 49.473857 49.447226 49.422786 49.400871 49.381666 49.364831 49.350297 49.338095 49.330843 49.325859 49.316545 49.312632 49.310859 49.310360 45.375237 46.130673 47.462202 49.293998 50.550539 51.765496 52.924594 54.053132 54.938696 55.113352 55.271410 55.412192 55.540125 55.654772 55.757990 55.849963 55.932669 56.005644 56.072260 56.131236 56.182772 56.228716 56.266188 56.298087 56.326571 56.350485 56.368697 56.380927 56.393168 56.405409 56.417643 56.424422 56.436121 56.442412 56.448672 56.455370 56.459570 56.463782 56.465960 56.467219 56.466444 56.192197 55.272934 54.348676 53.429407 52.504963 51.581026 50.659762 49.738499 49.530738 49.495116 49.461529 49.430666 49.402976 49.378660 49.360597 49.345882 49.332651 49.324690 49.318904 49.312505 49.307057 49.305447 49.306263 45.634907 46.414157 47.891854 49.964712 51.358895 52.728191 54.047797 55.332896 56.330908 56.495451 56.643671 56.780375 56.900950 57.012541 57.112093 57.200148 57.279459 57.349985 57.412348 57.468493 57.516207 57.558058 57.593985 57.625651 57.649981 57.673354 57.690222 57.706892 57.717516 57.728133 57.738756 57.749380 57.754671 57.762217 57.769793 57.774634 57.777369 57.779066 57.778540 57.776308 57.773840 57.450961 56.357803 55.264179 54.171120 53.077149 51.984800 50.893107 49.800815 49.566586 49.522533 49.480991 49.443727 49.409769 49.383177 49.361275 49.343288 49.330628 49.320172 49.312953 49.305347 49.299459 49.299674 49.300232 45.866940 46.646756 48.193203 50.388818 51.846512 53.290375 54.693169 56.056296 57.112046 57.266469 57.409245 57.539433 57.657208 57.763089 57.856576 57.942292 58.017197 58.083596 58.141656 58.191720 58.236817 58.274644 58.308221 58.336491 58.359681 58.380681 58.400208 58.415669 58.429696 58.441254 58.451382 58.461056 58.466298 58.473344 58.479561 58.482175 58.483277 58.484357 58.482964 58.479645 58.473588 58.122720 56.937544 55.753555 54.566567 53.381917 52.195173 51.011466 49.827957 49.616419 49.562437 49.511612 49.467271 49.429210 49.395198 49.367956 49.346062 49.330531 49.320288 49.310681 49.300124 49.297133 49.293970 49.296951 46.066990 46.816836 48.325820 50.487501 51.917208 53.338471 54.717145 56.065862 57.104627 57.249524 57.385381 57.508851 57.620611 57.721669 57.811975 57.893029 57.965234 58.025010 58.078950 58.125222 58.166604 58.202028 58.231984 58.258096 58.283914 58.302713 58.320714 58.338712 58.352811 58.365114 58.377404 58.383218 58.392843 58.398755 58.401208 58.404779 58.406026 58.406804 58.404889 58.399366 58.395215 58.046318 56.868069 55.691562 54.515760 53.337423 52.163465 50.986755 49.813480 49.682171 49.616504 49.557367 49.503344 49.458362 49.416924 49.384511 49.358290 49.338237 49.324675 49.312821 49.300962 49.295060 49.292182 49.293678 46.231960 46.917732 48.292022 50.265395 51.580737 52.879435 54.137491 55.365815 56.317198 56.456023 56.582598 56.703345 56.808863 56.904406 56.990920 57.066199 57.132102 57.190161 57.240103 57.283034 57.322390 57.355998 57.385401 57.413088 57.436461 57.457526 57.475031 57.492537 57.509116 57.521834 57.533812 57.542948 57.552039 57.555869 57.558890 57.563273 57.563532 57.563792 57.560881 57.554862 57.551512 57.234737 56.166813 55.097405 54.027806 52.960088 51.891557 50.825780 49.845773 49.765058 49.689851 49.617642 49.554863 49.497695 49.451629 49.410773 49.378783 49.353436 49.334742 49.320408 49.307537 49.297623 49.292445 49.294373 46.364735 46.961137 48.126218 49.810303 50.945463 52.042327 53.104600 54.142393 54.951972 55.085536 55.208946 55.320934 55.421256 55.512847 55.593860 55.664890 55.728225 55.781856 55.831786 55.872627 55.909091 55.943206 55.972678 55.999034 56.022140 56.047122 56.065383 56.083049 56.100490 56.114806 56.128082 56.137409 56.141994 56.149341 56.152053 56.155906 56.156993 56.156440 56.154617 56.152309 56.148464 55.886492 54.997586 54.110767 53.221624 52.332989 51.446543 50.558877 49.958989 49.865102 49.773694 49.689604 49.614767 49.546866 49.491658 49.445495 49.406751 49.376012 49.352312 49.334604 49.315179 49.305894 49.299187 49.296837 46.465576 46.961197 47.902280 49.252183 50.160393 51.022695 51.856567 52.677072 53.324516 53.452892 53.570278 53.677181 53.772228 53.859524 53.936646 54.002396 54.062229 54.114971 54.160545 54.202240 54.238037 54.271076 54.302399 54.329720 54.354992 54.377430 54.399151 54.416912 54.432171 54.448685 54.460560 54.468697 54.476833 54.484104 54.487545 54.493290 54.492035 54.493950 54.495861 54.494606 54.494595 54.296624 53.622879 52.946706 52.273155 51.597520 50.919963 50.245420 50.090837 49.980876 49.872532 49.772736 49.683815 49.604770 49.537550 49.484706 49.438123 49.401130 49.372565 49.354730 49.332036 49.315538 49.307298 49.304283 46.538395 46.947324 47.693069 48.702922 49.376591 50.014335 50.639443 51.250800 51.740310 51.861625 51.975292 52.077144 52.167549 52.248954 52.320850 52.387145 52.441486 52.492732 52.537032 52.576888 52.613155 52.647468 52.675765 52.704131 52.731078 52.755344 52.776580 52.794242 52.813773 52.825153 52.836402 52.849105 52.856922 52.861659 52.867046 52.870952 52.874408 52.877700 52.883411 52.886352 52.889102 52.754808 52.288768 51.819563 51.350776 50.880075 50.500478 50.373098 50.241184 50.110148 49.984369 49.866497 49.762683 49.669058 49.592975 49.528093 49.473199 49.433212 49.399096 49.373489 49.345446 49.325659 49.315693 49.311489 46.598789 46.959102 47.534074 48.235503 48.712827 49.172311 49.620925 50.060800 50.416177 50.533331 50.639955 50.737196 50.822698 50.898927 50.968740 51.029066 51.084062 51.132673 51.175607 51.215448 51.251661 51.283426 51.313676 51.340398 51.366579 51.390344 51.410837 51.428251 51.445490 51.459192 51.469843 51.479303 51.486398 51.493497 51.499735 51.507299 51.513075 51.521989 51.529089 51.536199 51.544389 51.464004 51.171451 51.051531 50.963379 50.850153 50.714275 50.566212 50.411594 50.258459 50.111233 49.973323 49.849946 49.740593 49.650528 49.572726 49.512337 49.462639 49.422868 49.393128 49.360511 49.336483 49.322930 49.317478 46.667103 46.996538 47.416688 47.884987 48.224782 48.554852 48.876916 49.184827 49.439048 49.551516 49.652228 49.743075 49.823844 49.897593 49.962920 50.022921 50.075904 50.122233 50.165355 50.203277 50.237456 50.269309 50.299464 50.326133 50.348613 50.370070 50.391196 50.409102 50.423156 50.435000 50.446444 50.456870 50.463855 50.470836 50.584470 50.772694 50.949986 51.108883 51.241435 51.340940 51.402288 51.423246 51.401493 51.340446 51.241542 51.110260 50.953964 50.782959 50.603593 50.422927 50.251314 50.090247 49.946948 49.820710 49.712021 49.624334 49.551568 49.495136 49.448941 49.413955 49.373456 49.344615 49.329808 49.322342 46.751530 47.040652 47.339875 47.661461 47.914964 48.158626 48.392247 48.612105 48.798913 48.904371 48.998563 49.084375 49.160520 49.231469 49.293989 49.351358 49.401418 49.447984 49.489911 49.526388 49.559911 49.591131 49.618074 49.644441 49.665647 49.686487 49.704557 49.719957 49.734098 49.746572 49.921332 50.116191 50.323758 50.541701 50.763702 50.982722 51.189987 51.374782 51.532318 51.651751 51.724962 51.752959 51.732320 51.661338 51.549246 51.399253 51.220483 51.020437 50.814641 50.605777 50.405493 50.218570 50.051363 49.905366 49.780564 49.677908 49.592693 49.525169 49.471719 49.431470 49.384949 49.350315 49.332562 49.324642 46.837776 47.076994 47.301990 47.537177 47.739339 47.929698 48.108507 48.274239 48.417248 48.517388 48.606404 48.688222 48.760708 48.826451 48.888371 48.943272 48.993321 49.037381 49.077653 49.113335 49.145123 49.173806 49.199776 49.222943 49.243340 49.263131 49.324738 49.459867 49.617871 49.797242 49.998954 50.222609 50.463064 50.713342 50.969901 51.222667 51.463151 51.678508 51.860080 52.000853 52.088292 52.121532 52.097671 52.018891 51.889990 51.717777 51.514873 51.285052 51.047432 50.806578 50.573923 50.361031 50.166553 49.995753 49.852384 49.733505 49.635485 49.558846 49.497315 49.448363 49.397822 49.357688 49.335717 49.328156 46.909733 47.106276 47.293462 47.483197 47.652254 47.809910 47.955533 48.089598 48.210457 48.304509 48.389275 48.466790 48.535702 48.600281 48.658646 48.711449 48.757954 48.802006 48.839596 48.874520 48.905911 48.931408 48.957055 49.004505 49.094691 49.202956 49.329536 49.481402 49.660118 49.864135 50.093206 50.346700 50.619766 50.907748 51.202672 51.492210 51.766525 52.015260 52.224678 52.384468 52.486510 52.525268 52.499475 52.412807 52.266852 52.070118 51.835429 51.574088 51.300893 51.025915 50.762062 50.515410 50.292682 50.096668 49.931514 49.793027 49.681706 49.592159 49.521730 49.467202 49.408356 49.363173 49.342080 49.334644 46.962330 47.135276 47.299946 47.465580 47.617091 47.754790 47.881637 47.997359 48.103835 48.193572 48.272513 48.347335 48.414000 48.477172 48.533759 48.583766 48.630259 48.670188 48.706794 48.739630 48.776039 48.834207 48.901616 48.981868 49.081343 49.200175 49.343318 49.512099 49.712574 49.940725 50.199328 50.486398 50.795913 51.123269 51.457869 51.786875 52.101416 52.383023 52.618994 52.803978 52.920344 52.965840 52.937626 52.837020 52.674084 52.451092 52.188298 51.891715 51.581531 51.269774 50.965875 50.685504 50.430743 50.208775 50.017493 49.857864 49.731397 49.628377 49.548278 49.488662 49.420001 49.374178 49.349014 49.342125 47.004829 47.165215 47.320389 47.470158 47.608068 47.731505 47.848569 47.952486 48.048895 48.133184 48.211969 48.282423 48.347872 48.408243 48.462026 48.509229 48.554445 48.593126 48.638742 48.688551 48.742464 48.803298 48.875362 48.963299 49.070780 49.200533 49.360433 49.548314 49.770716 50.029078 50.318493 50.641752 50.990517 51.359334 51.737876 52.108849 52.459790 52.778768 53.046377 53.252332 53.384794 53.436578 53.406322 53.297574 53.113161 52.865724 52.567202 52.237741 51.887876 51.534709 51.193515 50.874683 50.585020 50.331091 50.114444 49.932085 49.784914 49.669121 49.578642 49.510091 49.435533 49.384792 49.361023 49.357315 47.047363 47.199462 47.345395 47.484319 47.612062 47.727261 47.831537 47.929450 48.017683 48.099966 48.174673 48.242327 48.303411 48.360975 48.414328 48.464670 48.511984 48.559068 48.607285 48.655580 48.709778 48.773558 48.852283 48.946232 49.062376 49.206608 49.379772 49.588994 49.836281 50.122833 50.447225 50.808913 51.201654 51.613052 52.035866 52.451000 52.846384 53.202074 53.500931 53.733110 53.879750 53.937061 53.906019 53.784046 53.579334 53.305161 52.973614 52.606058 52.217199 51.820731 51.440306 51.080507 50.753043 50.466348 50.218449 50.013838 49.847300 49.712798 49.611166 49.536973 49.455023 49.399056 49.376302 49.372517 47.082775 47.229253 47.370391 47.500850 47.618437 47.727155 47.826244 47.918207 48.000869 48.077571 48.146926 48.212653 48.272380 48.327641 48.379964 48.432301 48.480256 48.526616 48.574481 48.624116 48.680043 48.746823 48.827963 48.927641 49.053405 49.208895 49.399437 49.629170 49.902591 50.220773 50.583658 50.986591 51.422323 51.882342 52.353287 52.816804 53.255641 53.649530 53.981901 54.237242 54.401830 54.465847 54.430160 54.294127 54.070227 53.765805 53.402163 52.994670 52.564280 52.126954 51.700719 51.301189 50.936304 50.614027 50.335108 50.103930 49.915506 49.766970 49.652605 49.569702 49.480391 49.419477 49.393630 49.393879 47.108944 47.254768 47.389576 47.513884 47.626353 47.727405 47.820320 47.904454 47.984954 48.056068 48.123302 48.184597 48.243174 48.298262 48.349211 48.397873 48.445808 48.491206 48.538850 48.590974 48.647593 48.717474 48.802176 48.907278 49.042595 49.212750 49.418228 49.672221 49.972555 50.323265 50.723019 51.171105 51.654072 52.162778 52.684537 53.197703 53.681238 54.117016 54.481684 54.760305 54.940125 55.011313 54.971299 54.822060 54.573312 54.241611 53.840175 53.396461 52.921269 52.441767 51.971890 51.531359 51.125841 50.769082 50.458322 50.200114 49.990086 49.823346 49.698390 49.605240 49.506140 49.438356 49.413860 49.409691 47.123230 47.263589 47.394335 47.512175 47.619025 47.716696 47.805574 47.889200 47.962930 48.032992 48.095490 48.156295 48.209769 48.262010 48.311588 48.361027 48.406913 48.453710 48.501637 48.555345 48.614044 48.686131 48.775787 48.889680 49.032345 49.214492 49.439455 49.715336 50.044114 50.429969 50.869301 51.360188 51.893530 52.453165 53.024812 53.587041 54.116771 54.593245 54.992340 55.298457 55.492443 55.568596 55.522189 55.358106 55.086476 54.724896 54.286944 53.801164 53.283598 52.760528 52.247245 51.762353 51.318328 50.926571 50.584232 50.300806 50.066948 49.883961 49.744239 49.641276 49.532235 49.459094 49.427688 49.423855 47.117626 47.256102 47.379919 47.492447 47.596661 47.691845 47.778963 47.857437 47.931265 47.997987 48.060096 48.116173 48.172135 48.222616 48.271037 48.318159 48.364587 48.411449 48.461563 48.514796 48.577483 48.654079 48.747474 48.869494 49.023789 49.216565 49.462586 49.762237 50.119991 50.541139 51.019623 51.555922 52.136548 52.744444 53.368702 53.978213 54.555668 55.073379 55.507252 55.837838 56.044498 56.124542 56.074352 55.894452 55.600101 55.205927 54.731351 54.205332 53.643541 53.074388 52.519805 51.993180 51.509233 51.081098 50.708887 50.398312 50.140592 49.940501 49.786172 49.675228 49.555116 49.474732 49.441476 49.434586 47.092651 47.224214 47.346218 47.456879 47.556696 47.648727 47.733763 47.810677 47.883129 47.949767 48.010798 48.066542 48.120489 48.171256 48.220020 48.267766 48.314728 48.363636 48.416176 48.472183 48.537001 48.619060 48.720464 48.849217 49.015518 49.226670 49.490049 49.814426 50.202219 50.658058 51.176426 51.754956 52.381328 53.039976 53.711956 54.370559 54.991632 55.548612 56.015281 56.367305 56.591270 56.675080 56.616453 56.421779 56.103352 55.677648 55.170350 54.600661 53.997413 53.383196 52.784672 52.215711 51.693139 51.229770 50.827273 50.489835 50.212412 49.994047 49.829947 49.706405 49.577347 49.490705 49.453151 49.443363 47.049194 47.179296 47.295223 47.402200 47.502636 47.592037 47.673262 47.751655 47.820710 47.888144 47.949096 48.006019 48.061588 48.111364 48.163347 48.210909 48.257959 48.308221 48.362730 48.424294 48.493374 48.580831 48.690053 48.830741 49.009723 49.237477 49.520822 49.872381 50.287315 50.777969 51.335258 51.955648 52.627909 53.332600 54.049757 54.752851 55.417883 56.009978 56.508290 56.883772 57.119684 57.205526 57.144135 56.934071 56.595436 56.140029 55.594171 54.984389 54.340336 53.682873 53.037506 52.430896 51.871621 51.374181 50.940275 50.577891 50.279391 50.045923 49.869745 49.738414 49.600061 49.507792 49.462138 49.451897 46.994099 47.118623 47.234780 47.339110 47.436469 47.522869 47.604697 47.679057 47.751235 47.816028 47.878154 47.936819 47.990878 48.044406 48.094653 48.146075 48.197483 48.248548 48.306032 48.368177 48.444462 48.539785 48.656726 48.807219 49.002589 49.247218 49.552468 49.925601 50.371196 50.894430 51.488719 52.149775 52.864019 53.614659 54.375093 55.124886 55.827330 56.455299 56.979821 57.377379 57.628102 57.719674 57.652368 57.430819 57.069091 56.584399 56.006894 55.355399 54.668017 53.969099 53.285323 52.634705 52.037760 51.508502 51.048371 50.660197 50.346395 50.096680 49.909077 49.770505 49.622435 49.522906 49.475221 49.459652 46.929886 47.056832 47.169355 47.272536 47.366349 47.451675 47.534471 47.608307 47.677987 47.746034 47.806558 47.866535 47.923104 47.977220 48.028158 48.080241 48.132770 48.186609 48.244788 48.313970 48.395501 48.495723 48.622008 48.784884 48.992555 49.256055 49.581178 49.978681 50.451559 51.004620 51.632936 52.332857 53.086466 53.876407 54.680893 55.468346 56.211067 56.873228 57.425339 57.843885 58.106775 58.205235 58.135046 57.897962 57.517192 57.004954 56.392753 55.704448 54.974291 54.234348 53.509372 52.823901 52.193627 51.634409 51.149720 50.742364 50.412204 50.149222 49.950265 49.805651 49.648187 49.540339 49.488897 49.468689 46.864723 46.989156 47.105104 47.205799 47.300906 47.385166 47.463589 47.540677 47.611411 47.679797 47.743121 47.804156 47.860382 47.915159 47.967743 48.020058 48.071498 48.126181 48.188832 48.261297 48.346661 48.454796 48.591753 48.765044 48.987459 49.263808 49.608652 50.026358 50.524624 51.102957 51.763570 52.495779 53.285400 54.115282 54.957278 55.784030 56.561142 57.256320 57.835743 58.274982 58.552079 58.655442 58.581539 58.335546 57.932196 57.394660 56.745253 56.022206 55.252505 54.472433 53.708745 52.990605 52.329683 51.743667 51.241584 50.820457 50.475631 50.203691 49.997884 49.844197 49.678645 49.563118 49.503715 49.481434 46.805286 46.933446 47.050210 47.148133 47.242653 47.326815 47.409178 47.483981 47.557648 47.627200 47.691781 47.752854 47.810726 47.865872 47.918234 47.969670 48.026190 48.081753 48.145240 48.222138 48.312881 48.426467 48.569828 48.752559 48.986866 49.276753 49.636393 50.074400 50.592953 51.197637 51.882826 52.648463 53.470377 54.333853 55.209590 56.066842 56.875873 57.596198 58.201514 58.660713 58.948829 59.054800 58.980959 58.724484 58.301991 57.741027 57.061136 56.304108 55.498577 54.682222 53.888204 53.140201 52.453460 51.848666 51.326976 50.891842 50.541264 50.259541 50.047364 49.886052 49.711884 49.587352 49.523240 49.498119 46.762596 46.886807 47.003484 47.102830 47.198174 47.282822 47.365936 47.442017 47.517415 47.589747 47.655833 47.720024 47.779378 47.836127 47.891078 47.944180 47.999655 48.056938 48.123762 48.200699 48.293748 48.413518 48.564938 48.756179 48.996623 49.298798 49.670962 50.121389 50.659518 51.284294 51.995312 52.783093 53.630607 54.520808 55.423246 56.311403 57.144371 57.889947 58.514333 58.985140 59.286401 59.398276 59.320151 59.054803 58.619592 58.035924 57.333464 56.545232 55.711012 54.868249 54.044622 53.271397 52.568066 51.945137 51.411501 50.964570 50.604446 50.318081 50.096523 49.930096 49.746706 49.617913 49.552700 49.525738 46.726177 46.851644 46.965303 47.068479 47.163408 47.250953 47.336147 47.414703 47.494127 47.566950 47.638762 47.704560 47.768256 47.829954 47.886392 47.942327 48.001052 48.059594 48.125072 48.205139 48.301718 48.424992 48.578577 48.775107 49.020230 49.328952 49.710572 50.172742 50.723146 51.363389 52.090097 52.897915 53.766681 54.676286 55.600959 56.505895 57.359741 58.123921 58.761113 59.246246 59.554745 59.669689 59.591746 59.322465 58.877367 58.277255 57.552780 56.743951 55.887691 55.023416 54.180155 53.391576 52.671957 52.039621 51.494081 51.036983 50.665982 50.373353 50.146572 49.977084 49.791414 49.660577 49.594802 49.570282 46.698391 46.821118 46.936320 47.039476 47.138225 47.228741 47.316019 47.401261 47.481574 47.559471 47.636426 47.707220 47.774448 47.839544 47.899400 47.960402 48.019971 48.081297 48.148403 48.230032 48.327945 48.449666 48.605618 48.801788 49.051341 49.363134 49.751528 50.219055 50.779919 51.428230 52.169411 52.985835 53.867618 54.792325 55.730812 56.651079 57.518940 58.293837 58.942743 59.438743 59.749739 59.870247 59.794541 59.519322 59.067030 58.457134 57.720042 56.897278 56.027029 55.146008 54.292516 53.489237 52.760303 52.115703 51.562647 51.098629 50.722370 50.424246 50.192991 50.026137 49.842523 49.718512 49.660447 49.639763 46.677013 46.804215 46.918036 47.024038 47.123549 47.220082 47.309650 47.396709 47.482641 47.565237 47.644141 47.719616 47.792274 47.859145 47.924214 47.983767 48.046941 48.108111 48.180507 48.259681 48.355698 48.475964 48.630717 48.826770 49.077646 49.392104 49.781291 50.252992 50.817473 51.472539 52.218600 53.044476 53.934513 54.869162 55.816742 56.744804 57.618425 58.402187 59.056079 59.555113 59.872653 59.995086 59.920649 59.645201 59.189468 58.572815 57.827836 56.995678 56.118906 55.230046 54.366853 53.559743 52.823516 52.172612 51.615369 51.148213 50.769593 50.473858 50.247735 50.086147 49.908869 49.790077 49.738015 49.725082 46.665382 46.795800 46.912131 47.023645 47.126797 47.224252 47.317531 47.408615 47.494284 47.579651 47.660990 47.738689 47.809349 47.879494 47.945849 48.007162 48.070013 48.133902 48.204325 48.281931 48.376716 48.497365 48.648245 48.841284 49.090904 49.402929 49.793187 50.266557 50.830821 51.489414 52.237300 53.069832 53.963126 54.898726 55.849740 56.781180 57.657462 58.441326 59.099069 59.598085 59.919906 60.046483 59.973475 59.697135 59.239051 58.618474 57.872512 57.038246 56.156965 55.267411 54.406709 53.596629 52.860236 52.210168 51.653192 51.190949 50.816699 50.527173 50.312239 50.157023 49.987139 49.872369 49.824431 49.813786 46.673702 46.803639 46.927401 47.040357 47.147655 47.248418 47.344561 47.436129 47.522773 47.605689 47.682962 47.760230 47.828934 47.896907 47.960062 48.021904 48.085452 48.148084 48.217021 48.293415 48.386481 48.503758 48.652283 48.844696 49.091570 49.403040 49.790840 50.263239 50.827495 51.485684 52.231866 53.058972 53.952666 54.885220 55.833119 56.760716 57.633971 58.415648 59.071556 59.571387 59.892474 60.019967 59.946004 59.672330 59.213538 58.593694 57.848895 57.015074 56.141153 55.257957 54.403628 53.602191 52.871968 52.232979 51.685991 51.234466 50.870713 50.591178 50.381408 50.233963 50.067198 49.957705 49.911466 49.899647 46.715279 46.848138 46.973462 47.089575 47.197791 47.301315 47.396569 47.485438 47.568691 47.646703 47.722960 47.789744 47.855845 47.918845 47.977270 48.037109 48.095268 48.155411 48.222019 48.296557 48.386157 48.500454 48.648021 48.837174 49.080465 49.388019 49.772722 50.244931 50.803666 51.457564 52.201799 53.021932 53.906905 54.831454 55.768582 56.687143 57.551190 58.325796 58.976676 59.474279 59.793911 59.920356 59.847663 59.573840 59.115906 58.499437 57.759435 56.938811 56.076352 55.208821 54.369352 53.583450 52.870442 52.245662 51.716454 51.279805 50.932202 50.663040 50.460032 50.315841 50.151863 50.040216 49.993382 49.994030 46.702015 46.934018 47.063226 47.181317 47.289358 47.389559 47.481622 47.566666 47.643880 47.716001 47.779387 47.841171 47.896060 47.950609 48.002339 48.055876 48.109324 48.163465 48.222886 48.293273 48.381110 48.489113 48.633403 48.819230 49.060050 49.361719 49.743295 50.210358 50.765152 51.411940 52.146254 52.957904 53.828603 54.740090 55.662503 56.565364 57.415583 58.178310 58.816735 59.308641 59.624713 59.748188 59.674281 59.401400 58.947882 58.338337 57.613880 56.810704 55.968177 55.121393 54.306573 53.544169 52.858353 52.258971 51.752292 51.332451 51.000852 50.742769 50.546021 50.402798 50.238989 50.141129 50.140259 50.194359 46.543842 46.828668 47.106710 47.309838 47.422734 47.512340 47.596738 47.672348 47.740630 47.800872 47.853743 47.902458 47.952560 47.996298 48.038370 48.084247 48.126596 48.173452 48.229202 48.296734 48.378659 48.482255 48.620298 48.800909 49.037366 49.339161 49.711480 50.170144 50.718017 51.352519 52.074926 52.870960 53.726135 54.619099 55.523614 56.406876 57.237521 57.984826 58.612866 59.090090 59.400203 59.517889 59.436302 59.162019 58.713011 58.121781 57.415337 56.637333 55.823759 55.007759 54.223735 53.493900 52.840418 52.268525 51.790692 51.393526 51.073041 50.824265 50.634062 50.512469 50.406963 50.357296 50.338619 50.322670 46.748398 46.881146 47.031263 47.249054 47.469341 47.639886 47.732033 47.794272 47.849975 47.898069 47.941310 47.978188 48.014256 48.049342 48.082796 48.116826 48.152611 48.193688 48.242316 48.300445 48.376925 48.477720 48.610685 48.785705 49.017746 49.310572 49.678474 50.128138 50.663976 51.282760 51.988608 52.764886 53.598047 54.467152 55.348561 56.210463 57.021869 57.747812 58.360674 58.823329 59.116909 59.221713 59.135480 58.862577 58.422988 57.848301 57.168685 56.421630 55.643026 54.865607 54.120113 53.431971 52.814917 52.277957 51.822688 51.443273 51.144838 50.938650 50.813874 50.732438 50.602844 50.487637 50.428107 50.403053 47.043343 47.153913 47.256070 47.343242 47.427225 47.568902 47.727762 47.864513 47.950190 47.990199 48.022341 48.049824 48.075750 48.098417 48.127231 48.149117 48.182449 48.214276 48.259080 48.314371 48.386959 48.481905 48.610418 48.780894 49.006905 49.294095 49.651626 50.089844 50.607042 51.208549 51.887456 52.641094 53.445496 54.289751 55.139990 55.978561 56.760919 57.463802 58.054386 58.499324 58.772758 58.862410 58.769156 58.502659 58.078981 57.528680 56.879864 56.168967 55.432558 54.698228 53.994520 53.348788 52.768613 52.265683 51.855178 51.546568 51.318816 51.141660 50.979082 50.844024 50.684857 50.569466 50.507446 50.476509 47.308449 47.396615 47.471032 47.534453 47.587101 47.635203 47.677818 47.744780 47.850829 47.962715 48.052395 48.098817 48.116703 48.134888 48.152150 48.175026 48.201273 48.229761 48.271263 48.322521 48.393140 48.488428 48.616334 48.784027 49.003269 49.279448 49.626636 50.044958 50.542565 51.120769 51.774798 52.491652 53.265509 54.074186 54.893269 55.696352 56.449430 57.123036 57.683670 58.099130 58.353222 58.434813 58.342110 58.084624 57.682213 57.161492 56.550036 55.877210 55.182411 54.493577 53.834919 53.243185 52.738298 52.315875 51.969157 51.666322 51.401015 51.189189 51.022666 50.895511 50.748067 50.635208 50.572764 50.543285 47.497780 47.582444 47.634831 47.670999 47.701879 47.732523 47.757183 47.778980 47.803036 47.822697 47.880696 47.968358 48.055633 48.125676 48.166562 48.182962 48.206117 48.235960 48.273813 48.328243 48.398136 48.493422 48.617145 48.784441 48.998610 49.264512 49.597770 50.000665 50.473162 51.020081 51.639290 52.323047 53.056152 53.825469 54.604721 55.368551 56.084951 56.719731 57.248848 57.640648 57.877291 57.948236 57.860613 57.619229 57.243591 56.752289 56.177574 55.548255 54.910113 54.300407 53.729201 53.211988 52.739668 52.308617 51.944867 51.637974 51.388200 51.190449 51.037137 50.918734 50.777668 50.675866 50.628616 50.615070 47.547287 47.626809 47.694908 47.729615 47.749641 47.767717 47.782421 47.798864 47.814462 47.826986 47.841094 47.852924 47.866986 47.912706 47.988113 48.071088 48.149674 48.212146 48.258515 48.312560 48.386715 48.481563 48.607221 48.774202 48.980191 49.241861 49.559664 49.940686 50.390470 50.906427 51.488503 52.129773 52.819528 53.541610 54.272646 54.993041 55.667142 56.269538 56.765412 57.130848 57.351388 57.420533 57.339647 57.116509 56.770357 56.326901 55.818892 55.262292 54.690357 54.118625 53.561284 53.048792 52.590521 52.191164 51.849060 51.565398 51.335619 51.152669 51.011448 50.908470 50.793526 50.718022 50.685298 50.671967 47.561783 47.604013 47.645699 47.696313 47.741468 47.761392 47.771289 47.786409 47.799866 47.811842 47.824895 47.832645 47.841004 47.851467 47.866431 47.879617 47.918657 47.994337 48.094221 48.209205 48.327738 48.453902 48.587573 48.749827 48.951514 49.203362 49.504941 49.867762 50.293737 50.777555 51.321031 51.918239 52.558323 53.233266 53.916344 54.587418 55.216378 55.777867 56.240373 56.586529 56.801484 56.881200 56.821696 56.638550 56.336275 55.930769 55.444933 54.913140 54.364639 53.825310 53.310093 52.837240 52.416325 52.040017 51.724208 51.460603 51.248479 51.090515 50.977562 50.894744 50.795952 50.721747 50.687537 50.677937 47.511745 47.552068 47.585091 47.605579 47.638919 47.684991 47.727072 47.750639 47.767100 47.778636 47.791632 47.802133 47.811868 47.822654 47.836098 47.849981 47.870294 47.904208 47.947819 48.006227 48.102157 48.240413 48.417410 48.624516 48.860676 49.133353 49.437192 49.782352 50.179996 50.631488 51.139727 51.694569 52.288469 52.909246 53.541122 54.162063 54.750150 55.279396 55.724448 56.061428 56.271966 56.348912 56.293198 56.113277 55.822921 55.442630 54.996368 54.513286 54.011339 53.515701 53.040869 52.604137 52.210145 51.863602 51.578590 51.344001 51.156483 51.014747 50.905154 50.828065 50.740111 50.680101 50.659129 50.659817 47.280838 47.361154 47.426646 47.477377 47.520616 47.557176 47.600565 47.659132 47.712480 47.744337 47.758687 47.777203 47.790618 47.800284 47.816063 47.833977 47.855009 47.887834 47.932739 47.992315 48.069403 48.169258 48.295867 48.453469 48.652737 48.900367 49.204821 49.559420 49.961755 50.409740 50.901719 51.435113 51.996597 52.582986 53.169341 53.743621 54.290958 54.777719 55.185207 55.492315 55.683581 55.754145 55.709330 55.548456 55.290866 54.949965 54.549058 54.109013 53.651047 53.199768 52.765806 52.367144 52.009510 51.696136 51.427868 51.203991 51.024925 50.892570 50.795049 50.732707 50.662877 50.625593 50.631037 50.660847 47.085976 47.158544 47.217216 47.262655 47.299560 47.338430 47.381647 47.421331 47.475399 47.538006 47.601767 47.650629 47.676197 47.699992 47.720836 47.746854 47.779720 47.812270 47.858643 47.920600 47.993360 48.091940 48.211572 48.362627 48.546963 48.770381 49.038892 49.347039 49.707234 50.112273 50.562091 51.059761 51.584516 52.134684 52.686514 53.229298 53.742294 54.199418 54.585932 54.880671 55.074810 55.153363 55.121286 54.984782 54.759498 54.460785 54.104993 53.715372 53.306893 52.897898 52.504508 52.134769 51.802718 51.512516 51.263941 51.068355 50.914118 50.803967 50.732139 50.694765 50.647636 50.632347 50.649623 50.678677 46.860561 46.984330 47.075908 47.143895 47.205213 47.254399 47.299371 47.342116 47.383841 47.425064 47.464005 47.518686 47.575763 47.631848 47.666827 47.700042 47.732264 47.775450 47.824796 47.887565 47.967034 48.065575 48.185859 48.327624 48.508563 48.718864 48.967882 49.255841 49.585422 49.956304 50.365978 50.806487 51.274739 51.762612 52.255422 52.736819 53.195484 53.612625 53.970803 54.251086 54.439287 54.521821 54.513561 54.407076 54.221947 53.969003 53.665506 53.323216 52.962154 52.597572 52.239880 51.906453 51.598067 51.333980 51.107666 50.923621 50.779760 50.678361 50.610788 50.574300 50.529905 50.519914 50.536892 50.575264 46.580616 46.745126 46.885447 46.984046 47.055381 47.118104 47.176732 47.240161 47.300304 47.357816 47.408434 47.457271 47.500603 47.548812 47.614369 47.678302 47.737055 47.793485 47.845508 47.910532 47.984533 48.080771 48.191621 48.332526 48.492643 48.691514 48.917696 49.179356 49.476491 49.813039 50.175698 50.571269 50.989609 51.423828 51.863408 52.299129 52.715326 53.096066 53.428182 53.692535 53.874493 53.967040 53.968415 53.883253 53.727761 53.506457 53.238282 52.936379 52.612085 52.279161 51.955777 51.645727 51.364786 51.117765 50.908504 50.736255 50.604470 50.511844 50.450459 50.421834 50.385807 50.382363 50.429723 50.519001 46.441647 46.576497 46.695551 46.798525 46.908036 47.005574 47.090704 47.156495 47.217430 47.274495 47.332554 47.382486 47.430074 47.474459 47.520150 47.569442 47.629645 47.705578 47.787747 47.871609 47.960464 48.054798 48.164701 48.299773 48.453104 48.635288 48.842270 49.081449 49.349620 49.645223 49.972935 50.321666 50.692382 51.078086 51.472501 51.862068 52.242577 52.592877 52.901776 53.155392 53.331139 53.425685 53.441135 53.374336 53.241972 53.051328 52.815827 52.545742 52.255474 51.959892 51.662047 51.383656 51.129483 50.902413 50.711813 50.559638 50.433250 50.348452 50.294396 50.267610 50.259490 50.299643 50.375836 50.452789 46.094933 46.508377 46.621172 46.710463 46.781371 46.852009 46.940478 47.040520 47.140967 47.228385 47.303424 47.362750 47.416519 47.465220 47.507968 47.555109 47.604161 47.656579 47.716140 47.798440 47.900182 48.014124 48.139284 48.283177 48.434628 48.603136 48.794564 49.010712 49.246651 49.504005 49.784849 50.088437 50.412161 50.747271 51.095293 51.445760 51.786807 52.107146 52.397389 52.637128 52.811626 52.910192 52.928991 52.878270 52.767129 52.603064 52.392365 52.154777 51.893559 51.626331 51.366645 51.118313 50.890508 50.690932 50.521522 50.381986 50.275129 50.199702 50.169801 50.178824 50.189643 50.216425 50.257679 50.315556 45.837585 46.463131 46.573961 46.663400 46.738957 46.809152 46.880608 46.953646 47.027065 47.107826 47.197993 47.288164 47.372475 47.446412 47.504118 47.556110 47.606573 47.659834 47.720175 47.793029 47.878695 47.976296 48.091212 48.232079 48.389128 48.562036 48.745330 48.936392 49.146791 49.363947 49.601455 49.859607 50.133833 50.426917 50.731038 51.042090 51.352062 51.649865 51.921164 52.147390 52.316057 52.418246 52.448970 52.410900 52.313982 52.168170 51.984507 51.769966 51.540918 51.306057 51.074519 50.858124 50.659283 50.486327 50.340547 50.227726 50.154936 50.114344 50.096661 50.088567 50.075933 50.090853 50.131152 50.190678 46.080612 46.421474 46.533551 46.626805 46.709541 46.784616 46.860830 46.937384 47.013387 47.087449 47.160211 47.227611 47.290422 47.356623 47.420377 47.493655 47.568840 47.644627 47.722371 47.806683 47.894957 47.993378 48.105283 48.228604 48.360977 48.503060 48.656479 48.824001 49.007168 49.199280 49.406785 49.632205 49.876652 50.133080 50.401251 50.677906 50.956160 51.228347 51.483623 51.698866 51.861763 51.964061 52.002586 51.975349 51.893380 51.766146 51.603416 51.415420 51.212470 51.005382 50.803642 50.614693 50.450716 50.316451 50.211649 50.133684 50.070907 50.024692 49.996753 49.986376 49.982235 50.007580 50.051132 50.112858 46.219303 46.368862 46.489026 46.592423 46.685036 46.773361 46.858955 46.941996 47.021588 47.095357 47.165824 47.230793 47.291501 47.349145 47.402838 47.458003 47.516317 47.581111 47.659279 47.748818 47.851719 47.962608 48.078378 48.197023 48.314900 48.436711 48.562388 48.690993 48.815422 48.945021 49.092960 49.260126 49.440150 49.637989 49.854536 50.082499 50.314988 50.549206 50.772319 50.964386 51.113677 51.212068 51.259324 51.251959 51.200173 51.112064 50.995927 50.857320 50.705132 50.555425 50.420947 50.297110 50.192755 50.104248 50.027211 49.966398 49.922173 49.900905 49.897307 49.908630 49.930822 49.960171 50.004571 50.063210 46.143063 46.308144 46.443082 46.562797 46.673734 46.772724 46.865128 46.953132 47.036059 47.110011 47.175454 47.238120 47.297952 47.354824 47.408879 47.466796 47.528571 47.595642 47.669810 47.749369 47.837231 47.928776 48.022788 48.122035 48.216238 48.315849 48.415720 48.511852 48.610429 48.709292 48.819673 48.940765 49.066138 49.214025 49.376551 49.552407 49.737517 49.925437 50.107914 50.272583 50.406554 50.499770 50.556652 50.569882 50.548320 50.497644 50.424939 50.340404 50.253034 50.164128 50.075318 49.993335 49.924514 49.870752 49.831365 49.804769 49.794251 49.802037 49.823499 49.856410 49.900366 49.943065 49.996949 50.062115 45.850590 46.183636 46.394837 46.537150 46.667594 46.782726 46.886289 46.979738 47.063651 47.137995 47.199812 47.259058 47.315372 47.368699 47.422213 47.479437 47.542311 47.611211 47.685700 47.764210 47.845261 47.928138 48.011527 48.092133 48.170925 48.244045 48.314118 48.383834 48.449600 48.517840 48.595725 48.682551 48.773692 48.880796 49.003762 49.137689 49.279920 49.434757 49.579745 49.711435 49.825394 49.917083 49.976342 50.005825 50.011481 49.997209 49.966621 49.922068 49.870892 49.818857 49.770015 49.730118 49.700902 49.682551 49.675508 49.679874 49.698083 49.729525 49.769512 49.817272 49.875666 49.939057 50.002065 50.069584 45.569382 45.879696 46.227776 46.508397 46.673742 46.808560 46.924091 47.023558 47.108588 47.179867 47.238971 47.292015 47.342485 47.393021 47.443659 47.499917 47.560629 47.625299 47.693368 47.765291 47.838748 47.910585 47.979068 48.043171 48.106835 48.162711 48.213906 48.264395 48.315585 48.371027 48.430597 48.495985 48.569842 48.649456 48.742114 48.843169 48.949608 49.062561 49.171911 49.279298 49.377374 49.457790 49.520105 49.563288 49.587335 49.594343 49.588189 49.575388 49.559223 49.543656 49.531537 49.523751 49.524007 49.533941 49.553147 49.580328 49.615530 49.663377 49.719618 49.782401 49.851480 49.924390 49.998622 50.069637 45.378162 45.681343 45.966953 46.308388 46.622754 46.838392 46.967796 47.075358 47.163841 47.239831 47.297356 47.348476 47.392958 47.432679 47.481272 47.528195 47.579172 47.634635 47.693125 47.751907 47.811576 47.869716 47.923774 47.969584 48.015017 48.057633 48.097796 48.136608 48.177167 48.218726 48.264177 48.314259 48.368043 48.421622 48.483601 48.551383 48.626067 48.717927 48.812288 48.904808 48.992193 49.072210 49.134523 49.188100 49.228687 49.257403 49.279323 49.290294 49.300320 49.312548 49.328334 49.345181 49.371947 49.405237 49.444453 49.489203 49.539764 49.600750 49.668232 49.739654 49.812686 49.894865 49.972035 50.044323 44.987495 45.341846 45.666279 45.957485 46.253693 46.577988 46.859131 47.039299 47.150627 47.237091 47.304447 47.360485 47.408722 47.451546 47.486732 47.526993 47.569386 47.611435 47.650539 47.692257 47.730572 47.766941 47.801426 47.832054 47.855068 47.879185 47.902237 47.922981 47.952442 47.986965 48.021137 48.059097 48.110092 48.164803 48.221081 48.281944 48.350204 48.427097 48.503986 48.581120 48.660255 48.741596 48.809147 48.871857 48.928032 48.976768 49.017681 49.053074 49.088898 49.124783 49.161266 49.202179 49.247375 49.296333 49.349098 49.405949 49.472332 49.539024 49.610725 49.687317 49.764202 49.841465 49.914894 49.986221"/>
+	<Rectangle displayName="East end hills" groupIndex="112" width="130.000000" falloff="15.000000" surface="{47D48287-3ADE-4FC5-8BEC-B6B36901E612}" priority="0" precision="TRUE" forceElevation="FALSE" latitude="56.60095000000000" longitude="-169.55625000000001" altitude="35.00000000000000" latitude2="56.60095000000000" longitude2="-169.55289999999999" altitude2="35.00000000000000">
+		<Heightmap width="64" data="42.487305 43.357040 44.142639 44.822338 45.448448 45.985455 46.432610 46.822289 47.160183 47.450127 47.695679 47.907322 48.089832 48.248600 48.384033 48.502678 48.605179 48.691254 48.770634 48.839592 48.901611 48.954617 48.999264 49.041386 49.078430 49.108410 49.138462 49.162960 49.184326 49.206085 49.218853 49.237484 49.250256 49.263016 49.275784 49.283451 49.297138 49.305462 49.313782 49.322109 49.330429 49.338757 49.347076 49.355396 49.363720 49.370228 49.378799 49.387665 49.390003 49.398861 49.401199 49.403553 49.405895 49.401714 49.403759 49.401600 49.398750 49.395885 49.393024 49.390167 49.387314 49.384449 49.381596 49.378731 42.971638 43.777283 44.500713 45.129822 45.716263 46.211922 46.628883 46.995960 47.313648 47.582378 47.813274 48.010384 48.181705 48.330750 48.458733 48.570892 48.669273 48.757736 48.829533 48.895992 48.955517 49.008560 49.053257 49.092922 49.127899 49.162865 49.188629 49.212189 49.236816 49.255608 49.274395 49.287331 49.306015 49.318123 49.330242 49.339378 49.347980 49.361969 49.370518 49.379066 49.387608 49.393883 49.394611 49.395336 49.396065 49.395489 49.389717 49.390469 49.390285 49.396378 49.397423 49.398537 49.399658 49.394501 49.389374 49.392654 49.389599 49.379196 49.376335 49.373550 49.370811 49.368122 49.365463 49.370132 43.407494 44.157024 44.860672 45.462006 46.033073 46.510391 46.921810 47.288795 47.602798 47.852676 48.069004 48.258598 48.419205 48.560917 48.684013 48.792168 48.888058 48.968929 49.043324 49.107277 49.164307 49.214756 49.260193 49.299091 49.331310 49.362640 49.388222 49.411953 49.436657 49.455715 49.474510 49.487736 49.506393 49.518692 49.526981 49.540157 49.548927 49.563015 49.571789 49.580742 49.589523 49.588093 49.562557 49.531712 49.506187 49.479118 49.452732 49.420551 49.398842 49.398041 49.397163 49.396461 49.389488 49.389206 49.382725 49.377396 49.373917 49.370678 49.367645 49.364780 49.362068 49.359467 49.356853 49.354187 43.800373 44.506069 45.209518 45.898148 46.500603 47.010147 47.458519 47.871059 48.219227 48.455765 48.658821 48.835564 48.992229 49.126556 49.245113 49.350636 49.441437 49.522984 49.593273 49.655460 49.712395 49.759354 49.803467 49.839626 49.873692 49.903336 49.927551 49.951611 49.970249 49.988434 50.006599 50.024307 50.036961 50.049103 50.061237 50.075424 50.083405 50.095924 50.103683 50.111439 50.119244 50.096741 50.001308 49.905571 49.809986 49.710613 49.614574 49.512371 49.416340 49.404007 49.400009 49.396328 49.393066 49.384140 49.381626 49.374626 49.370407 49.362869 49.359589 49.356659 49.354015 49.351597 49.348892 49.346596 44.161957 44.840858 45.584789 46.383099 47.038170 47.605804 48.121677 48.603695 49.001415 49.222378 49.416561 49.584518 49.733173 49.864277 49.977276 50.078674 50.168243 50.248253 50.317322 50.380638 50.433552 50.482506 50.522251 50.559338 50.589966 50.617172 50.641544 50.662781 50.680496 50.697487 50.714474 50.730724 50.742458 50.757919 50.768208 50.778896 50.789932 50.799671 50.807007 50.817951 50.824097 50.773460 50.585560 50.397659 50.209759 50.018261 49.830830 49.637241 49.449818 49.419456 49.410995 49.403069 49.395878 49.383369 49.377934 49.368294 49.363140 49.356712 49.351143 49.348061 49.341492 49.338764 49.336353 49.334698 44.494621 45.168430 46.001022 46.978859 47.733364 48.404785 49.030285 49.625481 50.106884 50.317535 50.500015 50.662098 50.803082 50.929314 51.040054 51.139851 51.227570 51.306629 51.374191 51.437008 51.491356 51.538769 51.578972 51.613735 51.644802 51.668354 51.690762 51.711590 51.727394 51.743191 51.758984 51.768814 51.784607 51.794437 51.804264 51.815174 51.825195 51.831699 51.841026 51.849449 51.854694 51.763584 51.441376 51.119152 50.796932 50.476261 50.150478 49.823910 49.502674 49.445545 49.431019 49.417351 49.404858 49.388042 49.377884 49.368954 49.358097 49.352455 49.343956 49.340359 49.333366 49.329914 49.327812 49.326492 44.804935 45.493710 46.467930 47.696342 48.596615 49.424831 50.204041 50.955788 51.557098 51.753624 51.926785 52.083679 52.219822 52.341068 52.449921 52.548050 52.634392 52.712059 52.780918 52.842606 52.896347 52.942688 52.982929 53.018257 53.047825 53.073292 53.094048 53.109676 53.124290 53.138901 53.152260 53.162155 53.170788 53.184486 53.193676 53.200462 53.210316 53.215706 53.223324 53.225967 53.233585 53.089054 52.588249 52.087437 51.586628 51.083763 50.579109 50.074455 49.575970 49.481247 49.459209 49.438457 49.415665 49.396252 49.381374 49.368401 49.355141 49.347694 49.337914 49.333481 49.325096 49.321201 49.319309 49.318432 45.098812 45.818680 46.967926 48.496864 49.576427 50.595871 51.560352 52.501015 53.244133 53.429859 53.594566 53.743843 53.874836 53.993874 54.098461 54.194435 54.279068 54.355408 54.424503 54.484650 54.537437 54.584637 54.623978 54.660027 54.687050 54.710262 54.729427 54.747307 54.760735 54.769707 54.783127 54.791126 54.802494 54.811459 54.818905 54.827240 54.833324 54.839417 54.840717 54.846607 54.847565 54.640762 53.930542 53.216335 52.506607 51.795017 51.082378 50.369740 49.657089 49.502102 49.473858 49.447227 49.422787 49.400871 49.381664 49.364830 49.350296 49.338097 49.330845 49.325859 49.316544 49.312634 49.310860 49.310360 45.375237 46.130672 47.462200 49.293999 50.550537 51.765495 52.924595 54.053131 54.938698 55.113354 55.271412 55.412193 55.540127 55.654774 55.757992 55.849964 55.932671 56.005646 56.072262 56.131237 56.182774 56.228718 56.266190 56.298088 56.326572 56.350487 56.368698 56.380928 56.393169 56.405411 56.417645 56.424423 56.436123 56.442413 56.448673 56.455372 56.459572 56.463783 56.465961 56.467220 56.466442 56.192196 55.272934 54.348675 53.429405 52.504963 51.581024 50.659763 49.738499 49.530739 49.495117 49.461529 49.430668 49.402977 49.378658 49.360596 49.345882 49.332649 49.324692 49.318905 49.312504 49.307056 49.305447 49.306263 45.634907 46.414158 47.891853 49.964710 51.358894 52.728191 54.047798 55.332897 56.330910 56.495453 56.643669 56.780376 56.900951 57.012543 57.112095 57.200150 57.279461 57.349983 57.412350 57.468494 57.516209 57.558060 57.593987 57.625652 57.649982 57.673355 57.690224 57.706890 57.717518 57.728134 57.738754 57.749378 57.754669 57.762218 57.769794 57.774635 57.777370 57.779064 57.778542 57.776306 57.773842 57.450962 56.357803 55.264179 54.171120 53.077148 51.984798 50.893108 49.800816 49.566586 49.522533 49.480991 49.443726 49.409767 49.383179 49.361275 49.343288 49.330627 49.320171 49.312954 49.305347 49.299458 49.299675 49.300232 45.866940 46.646755 48.193203 50.388817 51.846512 53.290375 54.693169 56.056297 57.112045 57.266468 57.409245 57.539433 57.657207 57.763088 57.856575 57.942291 58.017197 58.083595 58.141655 58.191719 58.236816 58.274643 58.308220 58.336491 58.359680 58.380680 58.400208 58.415668 58.429695 58.441254 58.451382 58.461056 58.466297 58.473343 58.479561 58.482174 58.483276 58.484356 58.482964 58.479645 58.473587 58.122719 56.937546 55.753555 54.566566 53.381916 52.195171 51.011467 49.827957 49.616421 49.562435 49.511612 49.467270 49.429211 49.395199 49.367954 49.346062 49.330532 49.320290 49.310680 49.300125 49.297134 49.293968 49.296951 46.066990 46.816837 48.325821 50.487499 51.917210 53.338470 54.717144 56.065861 57.104626 57.249523 57.385380 57.508850 57.620609 57.721668 57.811974 57.893028 57.965233 58.025009 58.078949 58.125221 58.166603 58.202026 58.231983 58.258095 58.283913 58.302711 58.320713 58.338711 58.352810 58.365112 58.377403 58.383217 58.392841 58.398754 58.401207 58.404778 58.406025 58.406803 58.404888 58.399364 58.395214 58.046318 56.868069 55.691563 54.515759 53.337421 52.163464 50.986755 49.813480 49.682171 49.616505 49.557365 49.503345 49.458363 49.416924 49.384510 49.358292 49.338238 49.324677 49.312820 49.300961 49.295059 49.292183 49.293678 46.231960 46.917732 48.292023 50.265396 51.580738 52.879436 54.137489 55.365814 56.317200 56.456024 56.582600 56.703346 56.808865 56.904408 56.990921 57.066200 57.132103 57.190163 57.240105 57.283035 57.322392 57.355999 57.385403 57.413090 57.436462 57.457527 57.475033 57.492538 57.509117 57.521835 57.533813 57.542950 57.552040 57.555870 57.558891 57.563274 57.563534 57.563793 57.560883 57.554863 57.551514 57.234737 56.166813 55.097404 54.027805 52.960087 51.891556 50.825779 49.845772 49.765057 49.689850 49.617641 49.554863 49.497696 49.451630 49.410774 49.378784 49.353436 49.334743 49.320408 49.307537 49.297623 49.292446 49.294373 46.364735 46.961136 48.126217 49.810303 50.945461 52.042328 53.104599 54.142391 54.951973 55.085537 55.208946 55.320934 55.421257 55.512848 55.593861 55.664890 55.728226 55.781857 55.831787 55.872627 55.909092 55.943207 55.972679 55.999035 56.022141 56.047123 56.065384 56.083050 56.100491 56.114807 56.128082 56.137409 56.141994 56.149342 56.152054 56.155907 56.156994 56.156441 56.154617 56.152309 56.148464 55.886494 54.997585 54.110767 53.221622 52.332989 51.446545 50.558876 49.958988 49.865101 49.773693 49.689606 49.614765 49.546867 49.491657 49.445496 49.406750 49.376011 49.352310 49.334602 49.315178 49.305893 49.299187 49.296837 46.465576 46.961197 47.902279 49.252182 50.160393 51.022694 51.856567 52.677071 53.324516 53.452892 53.570278 53.677181 53.772228 53.859524 53.936646 54.002396 54.062229 54.114971 54.160545 54.202240 54.238037 54.271076 54.302399 54.329720 54.354992 54.377430 54.399151 54.416912 54.432171 54.448685 54.460560 54.468697 54.476833 54.484104 54.487545 54.493290 54.492035 54.493950 54.495861 54.494606 54.494595 54.296623 53.622879 52.946705 52.273155 51.597519 50.919964 50.245419 50.090836 49.980877 49.872532 49.772736 49.683815 49.604771 49.537552 49.484707 49.438122 49.401131 49.372566 49.354729 49.332035 49.315536 49.307297 49.304283 46.538395 46.947323 47.693069 48.702923 49.376591 50.014336 50.639442 51.250801 51.740311 51.861626 51.975292 52.077145 52.167549 52.248955 52.320850 52.387146 52.441486 52.492733 52.537033 52.576889 52.613155 52.647469 52.675766 52.704132 52.731079 52.755344 52.776581 52.794243 52.813774 52.825153 52.836403 52.849106 52.856922 52.861660 52.867046 52.870953 52.874409 52.877701 52.883411 52.886353 52.889103 52.754807 52.288769 51.819565 51.350777 50.880074 50.500477 50.373096 50.241184 50.110149 49.984367 49.866497 49.762684 49.669060 49.592976 49.528091 49.473198 49.433212 49.399097 49.373489 49.345448 49.325661 49.315693 49.311489 46.598789 46.959103 47.534073 48.235504 48.712826 49.172310 49.620926 50.060799 50.416176 50.533333 50.639954 50.737198 50.822697 50.898926 50.968739 51.029064 51.084061 51.132671 51.175606 51.215446 51.251659 51.283424 51.313675 51.340397 51.366577 51.390343 51.410835 51.428249 51.445492 51.459190 51.469845 51.479301 51.486397 51.493496 51.499737 51.507298 51.513077 51.521988 51.529091 51.536198 51.544388 51.464005 51.171452 51.051533 50.963379 50.850155 50.714275 50.566212 50.411594 50.258457 50.111233 49.973324 49.849945 49.740593 49.650528 49.572727 49.512337 49.462639 49.422867 49.393127 49.360512 49.336483 49.322929 49.317478 46.667103 46.996536 47.416687 47.884987 48.224781 48.554852 48.876915 49.184826 49.439049 49.551517 49.652229 49.743076 49.823845 49.897594 49.962921 50.022923 50.075905 50.122234 50.165356 50.203278 50.237457 50.269310 50.299465 50.326134 50.348614 50.370071 50.391197 50.409103 50.423157 50.435001 50.446445 50.456871 50.463856 50.470837 50.584469 50.772694 50.949986 51.108883 51.241436 51.340939 51.402287 51.423244 51.401493 51.340446 51.241543 51.110260 50.953964 50.782959 50.603592 50.422928 50.251312 50.090248 49.946949 49.820709 49.712021 49.624332 49.551567 49.495136 49.448940 49.413956 49.373455 49.344616 49.329807 49.322342 46.751530 47.040653 47.339874 47.661461 47.914963 48.158627 48.392246 48.612106 48.798912 48.904369 48.998562 49.084373 49.160519 49.231468 49.293987 49.351357 49.401417 49.447983 49.489910 49.526386 49.559910 49.591129 49.618073 49.644440 49.665646 49.686485 49.704556 49.719955 49.734097 49.746571 49.921333 50.116192 50.323757 50.541702 50.763702 50.982723 51.189987 51.374783 51.532318 51.651752 51.724960 51.752960 51.732319 51.661339 51.549248 51.399254 51.220482 51.020435 50.814640 50.605778 50.405495 50.218571 50.051365 49.905365 49.780563 49.677910 49.592693 49.525169 49.471718 49.431469 49.384949 49.350315 49.332561 49.324642 46.837776 47.076996 47.301991 47.537178 47.739338 47.929699 48.108505 48.274239 48.417248 48.517387 48.606403 48.688221 48.760708 48.826450 48.888371 48.943272 48.993320 49.037380 49.077652 49.113335 49.145123 49.173805 49.199776 49.222942 49.243340 49.263130 49.324738 49.459866 49.617870 49.797241 49.998955 50.222610 50.463062 50.713341 50.969902 51.222668 51.463150 51.678509 51.860081 52.000854 52.088291 52.121532 52.097672 52.018890 51.889992 51.717777 51.514874 51.285053 51.047432 50.806580 50.573921 50.361031 50.166553 49.995754 49.852383 49.733505 49.635487 49.558846 49.497314 49.448364 49.397823 49.357689 49.335716 49.328156 46.909733 47.106277 47.293461 47.483196 47.652252 47.809910 47.955532 48.089600 48.210457 48.304508 48.389275 48.466789 48.535702 48.600281 48.658646 48.711449 48.757954 48.802006 48.839596 48.874519 48.905910 48.931408 48.957054 49.004505 49.094692 49.202957 49.329536 49.481403 49.660118 49.864136 50.093204 50.346699 50.619766 50.907749 51.202671 51.492210 51.766525 52.015259 52.224678 52.384468 52.486511 52.525269 52.499474 52.412807 52.266853 52.070118 51.835430 51.574089 51.300892 51.025913 50.762062 50.515411 50.292683 50.096668 49.931515 49.793026 49.681705 49.592159 49.521729 49.467201 49.408356 49.363174 49.342079 49.334644 46.962330 47.135277 47.299946 47.465580 47.617092 47.754791 47.881638 47.997360 48.103836 48.193573 48.272514 48.347336 48.414001 48.477173 48.533760 48.583767 48.630260 48.670189 48.706795 48.739632 48.776039 48.834206 48.901615 48.981869 49.081345 49.200176 49.343319 49.512100 49.712574 49.940723 50.199329 50.486397 50.795914 51.123268 51.457870 51.786877 52.101418 52.383022 52.618996 52.803978 52.920345 52.965839 52.937626 52.837021 52.674084 52.451092 52.188297 51.891716 51.581532 51.269775 50.965874 50.685505 50.430744 50.208775 50.017494 49.857864 49.731396 49.628376 49.548279 49.488663 49.420002 49.374180 49.349014 49.342125 47.004829 47.165215 47.320389 47.470158 47.608067 47.731506 47.848568 47.952484 48.048897 48.133183 48.211967 48.282421 48.347874 48.408241 48.462025 48.509228 48.554443 48.593124 48.638741 48.688553 48.742462 48.803299 48.875362 48.963299 49.070782 49.200535 49.360432 49.548313 49.770718 50.029079 50.318493 50.641750 50.990517 51.359333 51.737877 52.108849 52.459789 52.778767 53.046375 53.252331 53.384792 53.436577 53.406322 53.297573 53.113159 52.865723 52.567204 52.237740 51.887875 51.534710 51.193516 50.874683 50.585018 50.331093 50.114445 49.932083 49.784912 49.669121 49.578644 49.510090 49.435532 49.384792 49.361023 49.357315 47.047363 47.199463 47.345394 47.484318 47.612061 47.727261 47.831535 47.929451 48.017681 48.099964 48.174671 48.242329 48.303410 48.360973 48.414330 48.464668 48.511986 48.559067 48.607285 48.655579 48.709778 48.773560 48.852283 48.946232 49.062374 49.206608 49.379772 49.588993 49.836281 50.122833 50.447224 50.808914 51.201653 51.613052 52.035866 52.451000 52.846382 53.202072 53.500931 53.733109 53.879749 53.937061 53.906017 53.784046 53.579334 53.305161 52.973614 52.606056 52.217197 51.820732 51.440308 51.080505 50.753044 50.466347 50.218449 50.013840 49.847301 49.712799 49.611164 49.536972 49.455025 49.399055 49.376301 49.372517 47.082775 47.229252 47.370392 47.500851 47.618439 47.727154 47.826244 47.918205 48.000870 48.077572 48.146927 48.212654 48.272381 48.327641 48.379963 48.432301 48.480255 48.526615 48.574482 48.624115 48.680042 48.746822 48.827965 48.927643 49.053406 49.208897 49.399437 49.629169 49.902592 50.220772 50.583656 50.986591 51.422321 51.882343 52.353287 52.816803 53.255642 53.649529 53.981899 54.237244 54.401829 54.465847 54.430161 54.294128 54.070229 53.765804 53.402164 52.994671 52.564281 52.126953 51.700718 51.301189 50.936302 50.614025 50.335110 50.103931 49.915504 49.766972 49.652603 49.569702 49.480392 49.419476 49.393631 49.393879 47.108944 47.254768 47.389576 47.513885 47.626354 47.727406 47.820320 47.904453 47.984955 48.056068 48.123302 48.184597 48.243176 48.298264 48.349213 48.397873 48.445808 48.491207 48.538849 48.590973 48.647594 48.717476 48.802177 48.907276 49.042595 49.212749 49.418228 49.672222 49.972553 50.323265 50.723019 51.171104 51.654072 52.162777 52.684536 53.197704 53.681236 54.117016 54.481686 54.760303 54.940125 55.011314 54.971298 54.822060 54.573311 54.241611 53.840176 53.396461 52.921268 52.441769 51.971889 51.531361 51.125839 50.769081 50.458321 50.200115 49.990086 49.823345 49.698391 49.605240 49.506142 49.438354 49.413860 49.409691 47.123230 47.263588 47.394337 47.512177 47.619026 47.716698 47.805573 47.889198 47.962929 48.032993 48.095490 48.156296 48.209770 48.262009 48.311588 48.361027 48.406914 48.453709 48.501637 48.555344 48.614044 48.686131 48.775787 48.889679 49.032345 49.214493 49.439453 49.715336 50.044113 50.429970 50.869301 51.360188 51.893532 52.453163 53.024811 53.587040 54.116772 54.593246 54.992340 55.298458 55.492443 55.568596 55.522190 55.358105 55.086475 54.724895 54.286945 53.801163 53.283600 52.760529 52.247246 51.762352 51.318329 50.926571 50.584232 50.300804 50.066948 49.883961 49.744240 49.641277 49.532234 49.459095 49.427689 49.423855 47.117626 47.256104 47.379917 47.492447 47.596661 47.691845 47.778961 47.857437 47.931267 47.997986 48.060097 48.116173 48.172134 48.222614 48.271038 48.318157 48.364586 48.411449 48.461563 48.514797 48.577484 48.654079 48.747475 48.869495 49.023788 49.216564 49.462585 49.762238 50.119991 50.541138 51.019623 51.555923 52.136547 52.744446 53.368702 53.978214 54.555668 55.073380 55.507252 55.837837 56.044498 56.124542 56.074352 55.894451 55.600101 55.205929 54.731350 54.205334 53.643539 53.074387 52.519806 51.993179 51.509232 51.081097 50.708885 50.398312 50.140591 49.940502 49.786171 49.675228 49.555115 49.474731 49.441475 49.434586 47.092651 47.224213 47.346218 47.456879 47.556698 47.648727 47.733765 47.810677 47.883129 47.949768 48.010799 48.066544 48.120487 48.171257 48.220020 48.267765 48.314728 48.363636 48.416176 48.472183 48.537003 48.619061 48.720463 48.849216 49.015518 49.226669 49.490047 49.814426 50.202217 50.658058 51.176426 51.754955 52.381329 53.039974 53.711956 54.370560 54.991631 55.548611 56.015282 56.367306 56.591270 56.675079 56.616451 56.421780 56.103352 55.677647 55.170349 54.600662 53.997414 53.383198 52.784672 52.215710 51.693138 51.229771 50.827274 50.489834 50.212414 49.994045 49.829948 49.706406 49.577347 49.490704 49.453152 49.443363 47.049194 47.179295 47.295223 47.402199 47.502636 47.592037 47.673264 47.751656 47.820709 47.888145 47.949097 48.006020 48.061588 48.111362 48.163345 48.210911 48.257957 48.308220 48.362728 48.424294 48.493374 48.580830 48.690052 48.830742 49.009724 49.237476 49.520821 49.872379 50.287315 50.777969 51.335258 51.955647 52.627911 53.332600 54.049755 54.752850 55.417885 56.009979 56.508289 56.883774 57.119682 57.205524 57.144135 56.934071 56.595436 56.140030 55.594170 54.984390 54.340336 53.682873 53.037506 52.430897 51.871620 51.374180 50.940273 50.577892 50.279392 50.045921 49.869743 49.738415 49.600060 49.507793 49.462139 49.451897 46.994099 47.118622 47.234779 47.339111 47.436470 47.522869 47.604698 47.679058 47.751236 47.816029 47.878155 47.936817 47.990879 48.044407 48.094654 48.146076 48.197483 48.248547 48.306030 48.368176 48.444462 48.539783 48.656727 48.807220 49.002590 49.247219 49.552467 49.925602 50.371197 50.894428 51.488720 52.149776 52.864017 53.614658 54.375092 55.124886 55.827332 56.455299 56.979820 57.377380 57.628101 57.719673 57.652367 57.430820 57.069092 56.584400 56.006893 55.355400 54.668018 53.969097 53.285324 52.634705 52.037762 51.508503 51.048370 50.660198 50.346394 50.096680 49.909077 49.770504 49.622437 49.522907 49.475220 49.459652 46.929886 47.056831 47.169353 47.272537 47.366348 47.451675 47.534470 47.608307 47.677986 47.746033 47.806557 47.866535 47.923103 47.977219 48.028156 48.080242 48.132771 48.186607 48.244789 48.313969 48.395500 48.495724 48.622009 48.784885 48.992554 49.256054 49.581177 49.978680 50.451557 51.004620 51.632935 52.332855 53.086468 53.876408 54.680893 55.468346 56.211067 56.873226 57.425339 57.843884 58.106773 58.205235 58.135044 57.897961 57.517193 57.004955 56.392754 55.704449 54.974293 54.234348 53.509373 52.823902 52.193626 51.634411 51.149719 50.742363 50.412205 50.149223 49.950264 49.805653 49.648186 49.540340 49.488895 49.468689 46.864723 46.989155 47.105103 47.205799 47.300907 47.385166 47.463589 47.540676 47.611412 47.679798 47.743122 47.804157 47.860382 47.915157 47.967743 48.020058 48.071499 48.126183 48.188831 48.261295 48.346661 48.454796 48.591751 48.765045 48.987457 49.263809 49.608650 50.026360 50.524624 51.102959 51.763569 52.495777 53.285400 54.115280 54.957279 55.784031 56.561142 57.256321 57.835743 58.274982 58.552078 58.655441 58.581539 58.335545 57.932198 57.394661 56.745255 56.022205 55.252506 54.472431 53.708744 52.990604 52.329681 51.743668 51.241585 50.820457 50.475632 50.203690 49.997883 49.844196 49.678646 49.563118 49.503716 49.481434 46.805286 46.933445 47.050209 47.148132 47.242653 47.326817 47.409180 47.483982 47.557648 47.627201 47.691780 47.752853 47.810726 47.865871 47.918236 47.969669 48.026192 48.081753 48.145241 48.222137 48.312881 48.426468 48.569828 48.752560 48.986866 49.276752 49.636395 50.074402 50.592953 51.197636 51.882828 52.648464 53.470379 54.333855 55.209591 56.066841 56.875874 57.596199 58.201515 58.660713 58.948830 59.054798 58.980961 58.724483 58.301991 57.741028 57.061134 56.304108 55.498577 54.682220 53.888203 53.140202 52.453461 51.848667 51.326977 50.891842 50.541264 50.259541 50.047363 49.886051 49.711884 49.587353 49.523239 49.498119 46.762596 46.886806 47.003483 47.102829 47.198174 47.282822 47.365936 47.442017 47.517414 47.589748 47.655834 47.720024 47.779377 47.836128 47.891079 47.944180 47.999657 48.056938 48.123760 48.200699 48.293747 48.413517 48.564938 48.756180 48.996624 49.298798 49.670963 50.121387 50.659519 51.284294 51.995312 52.783092 53.630608 54.520809 55.423244 56.311401 57.144371 57.889946 58.514332 58.985142 59.286400 59.398277 59.320152 59.054802 58.619591 58.035923 57.333466 56.545231 55.711014 54.868248 54.044621 53.271397 52.568066 51.945137 51.411503 50.964569 50.604446 50.318081 50.096523 49.930096 49.746704 49.617912 49.552700 49.525738 46.726177 46.851643 46.965302 47.068478 47.163406 47.250954 47.336147 47.414703 47.494125 47.566952 47.638763 47.704559 47.768257 47.829952 47.886391 47.942326 48.001053 48.059593 48.125072 48.205139 48.301720 48.424992 48.578575 48.775108 49.020229 49.328953 49.710571 50.172741 50.723145 51.363388 52.090096 52.897915 53.766682 54.676285 55.600960 56.505894 57.359741 58.123920 58.761112 59.246246 59.554745 59.669689 59.591747 59.322464 58.877365 58.277256 57.552780 56.743950 55.887691 55.023415 54.180157 53.391575 52.671955 52.039619 51.494080 51.036983 50.665981 50.373352 50.146572 49.977085 49.791412 49.660576 49.594803 49.570282 46.698391 46.821117 46.936321 47.039474 47.138226 47.228741 47.316017 47.401260 47.481575 47.559471 47.636425 47.707218 47.774448 47.839542 47.899399 47.960403 48.019970 48.081299 48.148403 48.230034 48.327946 48.449665 48.605618 48.801788 49.051342 49.363132 49.751530 50.219055 50.779919 51.428230 52.169411 52.985836 53.867619 54.792324 55.730812 56.651077 57.518940 58.293839 58.942741 59.438744 59.749741 59.870247 59.794540 59.519321 59.067032 58.457134 57.720043 56.897278 56.027027 55.146008 54.292515 53.489239 52.760303 52.115704 51.562649 51.098629 50.722370 50.424248 50.192989 50.026138 49.842522 49.718513 49.660446 49.639763 46.677013 46.804214 46.918037 47.024036 47.123550 47.220081 47.309650 47.396709 47.482639 47.565235 47.644142 47.719616 47.792274 47.859146 47.924213 47.983768 48.046940 48.108112 48.180508 48.259682 48.355698 48.475964 48.630718 48.826771 49.077644 49.392105 49.781292 50.252991 50.817474 51.472538 52.218601 53.044476 53.934513 54.869164 55.816742 56.744804 57.618423 58.402187 59.056080 59.555115 59.872654 59.995087 59.920650 59.645203 59.189468 58.572815 57.827835 56.995678 56.118904 55.230045 54.366852 53.559742 52.823517 52.172611 51.615368 51.148212 50.769592 50.473858 50.247734 50.086147 49.908871 49.790077 49.738014 49.725082 46.665382 46.795799 46.912132 47.023643 47.126797 47.224251 47.317532 47.408615 47.494286 47.579651 47.660992 47.738689 47.809349 47.879494 47.945850 48.007160 48.070011 48.133904 48.204327 48.281933 48.376717 48.497364 48.648247 48.841286 49.090904 49.402927 49.793186 50.266556 50.830822 51.489414 52.237301 53.069832 53.963127 54.898727 55.849739 56.781181 57.657463 58.441326 59.099068 59.598083 59.919907 60.046482 59.973476 59.697136 59.239052 58.618473 57.872513 57.038246 56.156963 55.267410 54.406708 53.596630 52.860237 52.210167 51.653191 51.190948 50.816700 50.527172 50.312241 50.157024 49.987141 49.872368 49.824432 49.813786 46.673702 46.803638 46.927402 47.040356 47.147655 47.248417 47.344563 47.436131 47.522774 47.605690 47.682961 47.760231 47.828934 47.896908 47.960060 48.021904 48.085453 48.148083 48.217022 48.293415 48.386482 48.503757 48.652283 48.844696 49.091572 49.403042 49.790840 50.263241 50.827496 51.485683 52.231865 53.058971 53.952667 54.885220 55.833118 56.760715 57.633972 58.415649 59.071556 59.571388 59.892475 60.019966 59.946003 59.672329 59.213539 58.593693 57.848896 57.015076 56.141151 55.257957 54.403629 53.602192 52.871967 52.232979 51.685989 51.234467 50.870712 50.591179 50.381409 50.233963 50.067200 49.957706 49.911465 49.899647 46.715279 46.848137 46.973461 47.089577 47.197792 47.301315 47.396568 47.485439 47.568691 47.646702 47.722961 47.789745 47.855846 47.918846 47.977268 48.037109 48.095268 48.155411 48.222019 48.296558 48.386158 48.500454 48.648022 48.837173 49.080463 49.388020 49.772720 50.244930 50.803665 51.457565 52.201797 53.021931 53.906906 54.831455 55.768581 56.687141 57.551189 58.325794 58.976677 59.474277 59.793911 59.920357 59.847664 59.573841 59.115906 58.499435 57.759434 56.938812 56.076351 55.208820 54.369350 53.583450 52.870441 52.245663 51.716454 51.279804 50.932201 50.663040 50.460033 50.315842 50.151863 50.040215 49.993382 49.994030 46.702015 46.934017 47.063225 47.181316 47.289356 47.389561 47.481621 47.566666 47.643879 47.716000 47.779388 47.841171 47.896061 47.950607 48.002338 48.055878 48.109325 48.163464 48.222885 48.293274 48.381111 48.489113 48.633404 48.819229 49.060051 49.361717 49.743294 50.210358 50.765152 51.411942 52.146255 52.957905 53.828602 54.740089 55.662502 56.565365 57.415585 58.178310 58.816734 59.308640 59.624714 59.748188 59.674282 59.401402 58.947884 58.338337 57.613880 56.810703 55.968178 55.121391 54.306572 53.544170 52.858353 52.258972 51.752293 51.332451 51.000851 50.742767 50.546021 50.402798 50.238991 50.141129 50.140259 50.194359 46.543842 46.828667 47.106709 47.309837 47.422733 47.512341 47.596737 47.672348 47.740631 47.800873 47.853745 47.902458 47.952560 47.996300 48.038368 48.084248 48.126595 48.173450 48.229202 48.296734 48.378658 48.482254 48.620296 48.800907 49.037365 49.339161 49.711479 50.170143 50.718018 51.352520 52.074924 52.870960 53.726135 54.619099 55.523613 56.406876 57.237522 57.984825 58.612865 59.090092 59.400204 59.517887 59.436302 59.162018 58.713013 58.121780 57.415337 56.637333 55.823757 55.007759 54.223736 53.493900 52.840420 52.268524 51.790691 51.393524 51.073040 50.824265 50.634064 50.512470 50.406963 50.357296 50.338619 50.322670 46.748398 46.881145 47.031261 47.249054 47.469341 47.639885 47.732033 47.794273 47.849976 47.898067 47.941311 47.978188 48.014256 48.049343 48.082794 48.116825 48.152611 48.193687 48.242317 48.300446 48.376926 48.477718 48.610683 48.785706 49.017746 49.310574 49.678474 50.128139 50.663975 51.282761 51.988609 52.764885 53.598045 54.467152 55.348560 56.210464 57.021870 57.747810 58.360676 58.823330 59.116909 59.221714 59.135479 58.862576 58.422989 57.848301 57.168686 56.421631 55.643024 54.865608 54.120113 53.431973 52.814919 52.277958 51.822689 51.443272 51.144836 50.938648 50.813873 50.732437 50.602844 50.487637 50.428108 50.403053 47.043343 47.153912 47.256069 47.343243 47.427223 47.568901 47.727760 47.864513 47.950191 47.990200 48.022343 48.049824 48.075748 48.098415 48.127232 48.149117 48.182449 48.214275 48.259079 48.314369 48.386959 48.481907 48.610416 48.780895 49.006905 49.294094 49.651627 50.089844 50.607040 51.208549 51.887455 52.641094 53.445496 54.289749 55.139992 55.978561 56.760918 57.463802 58.054386 58.499325 58.772758 58.862411 58.769157 58.502659 58.078979 57.528679 56.879864 56.168968 55.432556 54.698227 53.994518 53.348789 52.768612 52.265682 51.855179 51.546570 51.318817 51.141659 50.979080 50.844025 50.684856 50.569466 50.507446 50.476509 47.308449 47.396614 47.471031 47.534454 47.587101 47.635204 47.677818 47.744781 47.850830 47.962715 48.052395 48.098816 48.116703 48.134888 48.152149 48.175026 48.201275 48.229759 48.271263 48.322521 48.393139 48.488426 48.616333 48.784027 49.003269 49.279449 49.626637 50.044956 50.542564 51.120770 51.774799 52.491653 53.265511 54.074184 54.893269 55.696350 56.449429 57.123035 57.683670 58.099129 58.353222 58.434814 58.342110 58.084625 57.682213 57.161491 56.550037 55.877209 55.182411 54.493576 53.834919 53.243183 52.738297 52.315876 51.969158 51.666321 51.401016 51.189190 51.022667 50.895512 50.748066 50.635208 50.572765 50.543285 47.497780 47.582443 47.634830 47.670998 47.701878 47.732525 47.757183 47.778980 47.803036 47.822697 47.880695 47.968357 48.055634 48.125675 48.166561 48.182961 48.206116 48.235958 48.273811 48.328243 48.398136 48.493423 48.617146 48.784443 48.998611 49.264511 49.597771 50.000664 50.473164 51.020081 51.639290 52.323048 53.056152 53.825470 54.604721 55.368549 56.084949 56.719730 57.248848 57.640648 57.877293 57.948235 57.860615 57.619228 57.243591 56.752289 56.177574 55.548256 54.910114 54.300407 53.729202 53.211987 52.739670 52.308617 51.944866 51.637974 51.388199 51.190449 51.037136 50.918736 50.777668 50.675865 50.628616 50.615070 47.547287 47.626808 47.694908 47.729614 47.749641 47.767715 47.782421 47.798862 47.814461 47.826984 47.841095 47.852924 47.866985 47.912704 47.988113 48.071087 48.149673 48.212147 48.258514 48.312561 48.386715 48.481564 48.607220 48.774200 48.980190 49.241859 49.559666 49.940685 50.390469 50.906425 51.488503 52.129772 52.819527 53.541611 54.272648 54.993042 55.667141 56.269539 56.765411 57.130848 57.351387 57.420532 57.339645 57.116508 56.770355 56.326900 55.818893 55.262291 54.690357 54.118626 53.561283 53.048794 52.590523 52.191162 51.849060 51.565399 51.335621 51.152668 51.011448 50.908470 50.793526 50.718021 50.685299 50.671967 47.561783 47.604012 47.645699 47.696312 47.741467 47.761391 47.771290 47.786407 47.799866 47.811844 47.824894 47.832645 47.841003 47.851467 47.866432 47.879616 47.918655 47.994335 48.094219 48.209206 48.327740 48.453903 48.587574 48.749828 48.951515 49.203362 49.504940 49.867764 50.293736 50.777554 51.321030 51.918240 52.558323 53.233265 53.916344 54.587418 55.216377 55.777866 56.240372 56.586529 56.801483 56.881199 56.821697 56.638550 56.336273 55.930771 55.444935 54.913139 54.364639 53.825310 53.310093 52.837238 52.416325 52.040016 51.724209 51.460602 51.248478 51.090515 50.977562 50.894745 50.795952 50.721748 50.687538 50.677937 47.511745 47.552067 47.585091 47.605579 47.638920 47.684990 47.727074 47.750641 47.767101 47.778637 47.791634 47.802132 47.811867 47.822655 47.836098 47.849979 47.870293 47.904209 47.947819 48.006226 48.102158 48.240414 48.417412 48.624516 48.860676 49.133354 49.437191 49.782352 50.179996 50.631489 51.139729 51.694569 52.288467 52.909245 53.541122 54.162064 54.750149 55.279396 55.724449 56.061428 56.271965 56.348911 56.293198 56.113277 55.822922 55.442631 54.996368 54.513287 54.011337 53.515701 53.040871 52.604137 52.210144 51.863602 51.578590 51.344002 51.156483 51.014748 50.905155 50.828064 50.740112 50.680099 50.659130 50.659817 47.280838 47.361153 47.426647 47.477379 47.520615 47.557175 47.600567 47.659130 47.712479 47.744335 47.758686 47.777203 47.790619 47.800285 47.816063 47.833977 47.855007 47.887833 47.932739 47.992313 48.069405 48.169258 48.295868 48.453468 48.652737 48.900368 49.204823 49.559422 49.961754 50.409740 50.901718 51.435112 51.996597 52.582985 53.169342 53.743622 54.290958 54.777718 55.185207 55.492313 55.683582 55.754147 55.709332 55.548454 55.290867 54.949966 54.549057 54.109013 53.651047 53.199768 52.765804 52.367146 52.009510 51.696136 51.427868 51.203991 51.024925 50.892570 50.795048 50.732708 50.662876 50.625591 50.631039 50.660847 47.085976 47.158543 47.217216 47.262653 47.299561 47.338428 47.381645 47.421329 47.475399 47.538006 47.601768 47.650627 47.676197 47.699993 47.720837 47.746853 47.779720 47.812271 47.858643 47.920601 47.993359 48.091942 48.211571 48.362625 48.546963 48.770382 49.038891 49.347038 49.707233 50.112274 50.562092 51.059761 51.584515 52.134686 52.686516 53.229298 53.742294 54.199417 54.585934 54.880672 55.074810 55.153362 55.121284 54.984783 54.759499 54.460785 54.104992 53.715370 53.306892 52.897900 52.504509 52.134769 51.802719 51.512516 51.263943 51.068356 50.914120 50.803967 50.732140 50.694763 50.647636 50.632347 50.649624 50.678677 46.860561 46.984329 47.075909 47.143894 47.205212 47.254398 47.299370 47.342117 47.383842 47.425064 47.464005 47.518684 47.575764 47.631847 47.666828 47.700043 47.732265 47.775452 47.824795 47.887566 47.967033 48.065575 48.185860 48.327625 48.508564 48.718864 48.967880 49.255840 49.585423 49.956303 50.365978 50.806488 51.274738 51.762611 52.255421 52.736820 53.195484 53.612625 53.970802 54.251087 54.439285 54.521820 54.513561 54.407078 54.221947 53.969002 53.665504 53.323215 52.962154 52.597572 52.239880 51.906452 51.598068 51.333981 51.107666 50.923622 50.779758 50.678360 50.610786 50.574299 50.529903 50.519913 50.536892 50.575264 46.580616 46.745125 46.885448 46.984047 47.055382 47.118103 47.176731 47.240162 47.300304 47.357815 47.408436 47.457272 47.500603 47.548813 47.614368 47.678303 47.737057 47.793484 47.845509 47.910534 47.984531 48.080772 48.191620 48.332527 48.492641 48.691513 48.917698 49.179356 49.476490 49.813038 50.175697 50.571270 50.989609 51.423828 51.863407 52.299129 52.715324 53.096066 53.428181 53.692535 53.874493 53.967041 53.968414 53.883251 53.727760 53.506458 53.238281 52.936378 52.612083 52.279160 51.955776 51.645725 51.364784 51.117764 50.908504 50.736256 50.604469 50.511845 50.450459 50.421833 50.385807 50.382362 50.429722 50.519001 46.441647 46.576496 46.695553 46.798527 46.908035 47.005573 47.090706 47.156494 47.217430 47.274494 47.332554 47.382484 47.430073 47.474461 47.520149 47.569443 47.629646 47.705578 47.787746 47.871609 47.960464 48.054798 48.164700 48.299774 48.453102 48.635288 48.842270 49.081448 49.349621 49.645222 49.972935 50.321667 50.692383 51.078087 51.472500 51.862068 52.242577 52.592876 52.901775 53.155392 53.331139 53.425686 53.441135 53.374336 53.241974 53.051327 52.815826 52.545742 52.255474 51.959892 51.662048 51.383656 51.129482 50.902412 50.711815 50.559639 50.433250 50.348454 50.294395 50.267609 50.259491 50.299644 50.375835 50.452789 46.094933 46.508377 46.621174 46.710464 46.781372 46.852009 46.940479 47.040520 47.140968 47.228386 47.303425 47.362751 47.416519 47.465221 47.507969 47.555107 47.604160 47.656578 47.716141 47.798439 47.900181 48.014126 48.139282 48.283176 48.434628 48.603134 48.794563 49.010712 49.246651 49.504005 49.784847 50.088436 50.412163 50.747272 51.095291 51.445759 51.786808 52.107147 52.397388 52.637127 52.811626 52.910191 52.928989 52.878269 52.767128 52.603065 52.392365 52.154778 51.893559 51.626331 51.366646 51.118313 50.890507 50.690933 50.521523 50.381985 50.275127 50.199703 50.169800 50.178825 50.189644 50.216427 50.257679 50.315556 45.837585 46.463131 46.573959 46.663399 46.738956 46.809151 46.880608 46.953648 47.027065 47.107826 47.197994 47.288162 47.372475 47.446411 47.504120 47.556110 47.606571 47.659836 47.720177 47.793030 47.878696 47.976295 48.091213 48.232079 48.389130 48.562035 48.745331 48.936394 49.146790 49.363949 49.601456 49.859608 50.133835 50.426918 50.731037 51.042091 51.352062 51.649864 51.921165 52.147388 52.316055 52.418247 52.448971 52.410900 52.313980 52.168171 51.984509 51.769966 51.540916 51.306057 51.074520 50.858124 50.659283 50.486328 50.340546 50.227726 50.154938 50.114346 50.096661 50.088566 50.075932 50.090855 50.131153 50.190678 46.080612 46.421474 46.533550 46.626804 46.709541 46.784615 46.860828 46.937386 47.013386 47.087448 47.160210 47.227612 47.290421 47.356625 47.420376 47.493656 47.568840 47.644627 47.722370 47.806683 47.894958 47.993378 48.105282 48.228603 48.360977 48.503059 48.656479 48.824001 49.007168 49.199280 49.406784 49.632206 49.876652 50.133080 50.401253 50.677906 50.956161 51.228348 51.483624 51.698868 51.861763 51.964062 52.002586 51.975349 51.893379 51.766148 51.603416 51.415421 51.212471 51.005383 50.803642 50.614693 50.450714 50.316452 50.211651 50.133682 50.070908 50.024693 49.996754 49.986378 49.982235 50.007580 50.051132 50.112858 46.219303 46.368862 46.489025 46.592422 46.685036 46.773361 46.858955 46.941998 47.021587 47.095356 47.165825 47.230793 47.291500 47.349144 47.402840 47.458004 47.516315 47.581112 47.659279 47.748817 47.851719 47.962608 48.078377 48.197021 48.314899 48.436710 48.562389 48.690994 48.815422 48.945023 49.092960 49.260124 49.440151 49.637989 49.854534 50.082500 50.314987 50.549206 50.772320 50.964386 51.113678 51.212067 51.259323 51.251961 51.200172 51.112064 50.995926 50.857319 50.705132 50.555424 50.420948 50.297112 50.192757 50.104248 50.027210 49.966396 49.922173 49.900906 49.897308 49.908630 49.930820 49.960171 50.004570 50.063210 46.143063 46.308144 46.443081 46.562798 46.673733 46.772724 46.865128 46.953133 47.036060 47.110012 47.175453 47.238121 47.297951 47.354824 47.408878 47.466797 47.528572 47.595642 47.669811 47.749371 47.837231 47.928776 48.022789 48.122036 48.216236 48.315849 48.415722 48.511852 48.610428 48.709293 48.819672 48.940765 49.066139 49.214024 49.376553 49.552406 49.737518 49.925438 50.107914 50.272583 50.406555 50.499771 50.556652 50.569881 50.548321 50.497643 50.424938 50.340405 50.253033 50.164127 50.075317 49.993336 49.924515 49.870750 49.831364 49.804768 49.794250 49.802036 49.823498 49.856411 49.900368 49.943066 49.996948 50.062115 45.850590 46.183636 46.394836 46.537151 46.667595 46.782726 46.886288 46.979736 47.063652 47.137997 47.199814 47.259060 47.315372 47.368698 47.422215 47.479439 47.542313 47.611210 47.685699 47.764210 47.845261 47.928139 48.011528 48.092133 48.170925 48.244045 48.314117 48.383835 48.449600 48.517841 48.595726 48.682552 48.773693 48.880795 49.003761 49.137688 49.279919 49.434757 49.579746 49.711433 49.825394 49.917084 49.976341 50.005825 50.011482 49.997208 49.966621 49.922070 49.870892 49.818855 49.770016 49.730118 49.700901 49.682552 49.675507 49.679874 49.698082 49.729527 49.769512 49.817272 49.875668 49.939056 50.002064 50.069584 45.569382 45.879696 46.227776 46.508396 46.673740 46.808559 46.924091 47.023560 47.108589 47.179867 47.238972 47.292015 47.342484 47.393021 47.443661 47.499916 47.560631 47.625298 47.693367 47.765289 47.838749 47.910583 47.979069 48.043171 48.106834 48.162712 48.213905 48.264397 48.315586 48.371029 48.430595 48.495983 48.569843 48.649456 48.742115 48.843170 48.949608 49.062561 49.171909 49.279297 49.377373 49.457790 49.520103 49.563290 49.587334 49.594341 49.588188 49.575390 49.559223 49.543655 49.531536 49.523750 49.524006 49.533939 49.553146 49.580330 49.615528 49.663376 49.719620 49.782402 49.851479 49.924389 49.998623 50.069637 45.378162 45.681343 45.966953 46.308388 46.622753 46.838390 46.967796 47.075359 47.163841 47.239830 47.297356 47.348476 47.392960 47.432678 47.481274 47.528194 47.579170 47.634636 47.693127 47.751907 47.811577 47.869717 47.923775 47.969585 48.015018 48.057632 48.097797 48.136608 48.177166 48.218727 48.264175 48.314259 48.368042 48.421623 48.483601 48.551384 48.626068 48.717926 48.812286 48.904808 48.992191 49.072208 49.134521 49.188099 49.228687 49.257404 49.279324 49.290295 49.300320 49.312550 49.328335 49.345181 49.371948 49.405235 49.444454 49.489204 49.539764 49.600750 49.668232 49.739655 49.812687 49.894863 49.972034 50.044323 44.987495 45.341846 45.666279 45.957485 46.253693 46.577988 46.859131 47.039299 47.150627 47.237091 47.304447 47.360485 47.408722 47.451546 47.486732 47.526993 47.569386 47.611435 47.650539 47.692257 47.730572 47.766941 47.801426 47.832054 47.855068 47.879185 47.902237 47.922981 47.952442 47.986965 48.021137 48.059097 48.110092 48.164803 48.221081 48.281944 48.350204 48.427097 48.503986 48.581120 48.660255 48.741596 48.809147 48.871857 48.928032 48.976768 49.017681 49.053074 49.088898 49.124783 49.161266 49.202179 49.247375 49.296333 49.349098 49.405949 49.472332 49.539024 49.610725 49.687317 49.764202 49.841465 49.914894 49.986221"/>
 	</Rectangle>
-	<Airport displayName="St. George Island - North side Runway" groupIndex="96" groupID="1" groupGenerated="FALSE" region="Pribilof Islands" country="USA" state="Alaska" city="Saint George Island" name="St. George Island - North side Runway" ident="PSTG" regionCode="PA" lat="56.60032406519851" lon="-169.56763961856618" alt="36.19366295614840" magvar="354.000000" trafficScalar="0.010000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.003943" groundMergingTransfertDark="7.000000">
+	<Airport displayName="St. George Island - North side Runway" groupIndex="111" groupID="1" groupGenerated="FALSE" region="Pribilof Islands" country="USA" state="Alaska" city="Saint George Island" name="St. George Island - North side Runway" ident="PSTG" regionCode="PA" lat="56.60032406519851" lon="-169.56763961856618" alt="36.19366295614840" magvar="354.000000" trafficScalar="0.010000" airportTestRadius="2000.00000000000000" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.003943" groundMergingTransfertDark="7.000000">
 		<AirportArchetype/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="1" index="0" type="NORMAL" orientation="FORWARD" lat="56.60032000000000" lon="-169.57783000000001"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="2" index="1" type="HOLD_SHORT_NO_DRAW" orientation="FORWARD" lat="56.60020000000000" lon="-169.57775000000001"/>

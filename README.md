@@ -40,14 +40,15 @@ scenery models the later, longer and wider strip – about 4,175 ft long and
 *The same strip in MSFS 2024, looking down the runway toward the village, with
 the cliffs and the fishing fleet off the north shore.*
 
-![Aerial view of the PSTG strip along St. George's north shore, with the village at the far end and fishing boats anchored offshore](docs/pstg-aerial.jpg)
+![Aerial view looking west down the red PSTG strip from beyond the 26 end, with a DC-6 at the threshold, the north cliffs and sea on the right and fishing boats anchored offshore](docs/pstg-aerial.jpg)
 
-*From the air: the strip running along the north shore toward the village.*
+*From the air, looking west down the strip from the 26 end, with the north
+cliffs and the fishing fleet offshore.*
 
-![The west end of the PSTG strip in MSFS 2024: a hangar and small plane on the red gravel apron, the runway stretching east, and the fuel site and gravel roads off to the right](docs/pstg-west-end.jpg)
+![The 08 end of the PSTG strip from the air: the hangar and a small plane on the west apron, the red runway running east toward the village, and the main apron, house and fuel tank to the right](docs/pstg-west-end.jpg)
 
-*The 08 end: the hangar apron, with the fuel site and gravel roads off to the
-right.*
+*The 08 end from the air: the hangar apron on the left, the runway running east
+toward the village, and the main apron, house and fuel tank to the right.*
 
 Until the early 1990s this short gravel strip was the main air link between
 St. George Island and the mainland. It lay right beside the north side of
@@ -106,6 +107,14 @@ copies.
 - Dust on landing and takeoff depends on the aircraft.
 
 ## What's new
+
+**1.6.0**
+- Two tributes to my parents, the island's cargo agents (NAC and MarkAir
+  Cargo): Dad's pickup with flashing orange beacons on the track west of the
+  runway, where he parked to guide pilots in before the strip had navaids, and
+  Mom's silver sedan on the apron. See "For Mom and Dad" below.
+- New photos: the approach with Dad's truck, Mom's sedan at the apron, and new
+  aerial views of the 26 end and the 08 end.
 
 **1.5.1**
 - East-end hills reshaped: one north–south ridge just past the 26 end, running
@@ -215,6 +224,34 @@ If you know scenery building, please **fork this repo** and send a pull
 request, or open an issue with ideas, corrections or history. Photos and
 memories of the old strip are very welcome. And if something looks wrong,
 it probably is. Tell me.
+
+## For Mom and Dad
+
+My parents were the cargo agents on the island, first for NAC (Northern Air
+Cargo) and also for MarkAir Cargo, which flew C-130s in for a while. They
+offloaded the planes, and my brother and I helped them as kids. I was at the
+airport a lot, so this runway, and building this scenery, brings back many
+memories. Two things in the scenery are there for them.
+
+**Dad's pickup with the orange lights.** West of the runway, on the gravel
+track toward the coast, there's a pickup truck parked with orange beacons
+flashing on the roof. In the early days the strip had no navaids of its own.
+Pilots used the St. Paul navaids, flew south to St. George, and in bad weather
+were talked in on radar. The pilots would ask my Dad to drive out to that spot,
+park, and flash his lights so they could find him and shoot the approach. Some
+good old-school flying.
+
+![On approach along St. George's north shore: a pickup with orange beacons on its roof parked on the red gravel track, the cliffs and the sea on the left, and the strip ahead](docs/pstg-approach-dads-truck.jpg)
+
+*On approach: Dad's truck, beacons on, marking the way in to the strip.*
+
+**Mom's sedan at the apron.** On the apron, parked beside the forklift and the
+flatbed, is a silver sedan. That's my Mom's car, parked where she worked as
+the cargo agent, meeting the planes.
+
+![The PSTG apron: a silver sedan parked beside a flatbed truck in front of the weather station house, with the red gravel apron and runway on the left and the fuel tank on the right](docs/pstg-apron-moms-sedan.jpg)
+
+*Mom's sedan at the apron, parked by the flatbed where she met the planes.*
 
 ## Building from source
 
